@@ -1,9 +1,10 @@
 body
-  background-color: #B0B0B0
+  background-color: #FFFFFF
   color: #333
   font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif
   padding: 18vh 1rem
   text-align: center
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
 
 a
   color: rgba(#000, 0.7)
@@ -12,6 +13,31 @@ a
   &:hover
     color: rgba(#000, 0.6)
 
-.middleman-logo
-  margin-bottom: 1rem
-  width: 10rem
+
+
+.grid
+  display: grid
+  height: 1000px
+  grid-template-columns: repeat(auto-fit, 1fr)
+  grid-template-rows: repeat(auto-fit, 250px)
+  grid-auto-flow: column dense
+  margin: -10px
+
+.item
+  margin: 10px
+  min-width: 250px
+  background: #C0D9D7
+  display: flex
+  align-items: center
+  justify-content: center
+
+.item-large
+  grid-column: span 2
+  grid-row: span 2
+
+.item-menu
+  grid-column-start: 3
+  grid-column-end: 99
+  grid-row: span 2
+  background: #fff
+  border: solid 1px
