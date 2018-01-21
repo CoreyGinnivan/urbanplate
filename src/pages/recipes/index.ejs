@@ -1,0 +1,9 @@
+<h1>Projects</h1>
+
+<p>The data below is coming from a JSON file.</p>
+
+<ul>
+  <% site.projects.forEach((project) => { %>
+    <li><a href="<%= project.url %>"><%= project.name %></a></li>
+  <% }) %>
+</ul>

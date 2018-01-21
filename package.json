@@ -2,9 +2,10 @@
   "name": "urbanplate",
   "version": "1.0.0",
   "description": "",
-  "main": "site.config.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node ./scripts/build",
+    "serve": "serve ./public"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/CoreyGinnivan/urbanplate#readme",
   "dependencies": {
-    "ejs": "^2.5.7"
+    "ejs": "^2.5.7",
+    "fs-extra": "^5.0.0",
+    "glob": "^7.1.2"
   }
 }
