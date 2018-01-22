@@ -4,7 +4,6 @@ body
   font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif
   padding: 18vh 1rem
   text-align: center
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
 
 a
   color: rgba(#000, 0.7)
@@ -24,7 +23,7 @@ a
   margin: -10px
 
 .item
-  margin: 10px
+  margin: 2px
   min-width: 250px
   background: #C0D9D7
   display: flex
@@ -41,3 +40,14 @@ a
   grid-row: span 2
   background: #fff
   border: solid 1px
+  background: none !important
+
+
+
+$colors: red, orange, yellow, green, blue, purple
+$repeat: 20  // How often you want the pattern to repeat.
+// Warning: a higher number outputs more CSS.
+
+@for $i from 1 through $repeat
+  .item:nth-child(#{length($colors)}n+#{$i})
+    background: lighten(nth($colors, random(length($colors))), 20%)
