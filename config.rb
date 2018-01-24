@@ -30,10 +30,11 @@ activate :blog do |blog|
   # blog.prefix = "blog"
 
   # blog.permalink = "{year}/{month}/{day}/{title}.html"
+  blog.permalink = "recipe/{title}.html"
   # Matcher for blog source files
   # blog.sources = "{year}-{month}-{day}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
-  # blog.layout = "layout"
+  blog.layout = "recipe"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
   # blog.year_link = "{year}.html"
@@ -43,7 +44,7 @@ activate :blog do |blog|
 
   blog.tag_template = "tag.html"
   blog.calendar_template = "calendar.html"
-  blog.sources = "recipes/:year-:title.html"
+  blog.sources = "recipes/:title.html"
 
   # Enable pagination
   # blog.paginate = true
@@ -72,11 +73,10 @@ activate :directory_indexes
 
 # Build-specific configuration
 configure :build do
-  Minify CSS on build
-  activate :minify_css
-
-  Minify Javascript on build
-  activate :minify_javascript
+    activate :asset_hash
+    activate :minify_javascript
+    activate :minify_css
+    activate :gzip
 end
 
 

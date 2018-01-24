@@ -1,11 +1,10 @@
 <!doctype html>
 <html>
-  <head>
-    <%= partial "head" %>
-  </head>
-  <body>
-    <%= partial "navigation" %>
-    <%= yield %>
-    <%= partial "footer" %>
-  </body>
+    <%= partial "partials/head" %>
+    <body>
+        <%= partial "partials/navigation" %>
+        <%= partial "partials/ingredients" %>
+        <%= yield %>
+        <%= partial "partials/footer" %>
+    </body>
 </html>
