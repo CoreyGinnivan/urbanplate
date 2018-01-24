@@ -3,6 +3,9 @@
     <%= partial "partials/head" %>
     <body>
         <%= partial "partials/navigation" %>
+        <h2>
+            <%= current_page.data.title %>
+        </h2>
         <%= partial "partials/ingredients" %>
         <%= partial "partials/method" %>
         <%= yield %>
