@@ -10,7 +10,7 @@
 page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
-page "/recipes/*", :layout => "recipes"
+# page "/recipes/*", :layout => "recipes"
 
 # With alternative layout
 # page "/path/to/file.html", layout: :otherlayout
@@ -43,6 +43,7 @@ activate :blog do |blog|
 
   blog.tag_template = "tag.html"
   blog.calendar_template = "calendar.html"
+  blog.sources = "recipes/:year-:title.html"
 
   # Enable pagination
   # blog.paginate = true
@@ -77,3 +78,5 @@ configure :build do
   Minify Javascript on build
   activate :minify_javascript
 end
+
+
