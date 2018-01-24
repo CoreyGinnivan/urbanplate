@@ -7,7 +7,7 @@ ingredients:
   Carrot: 0.2oz
   Onion: 0.1oz
   Salt and pepper: a pinch
-ingredients2:
+steps:
   Step 1: Cut up the cauliflower
   Step 2: Do something else
   Step 3: One last thing

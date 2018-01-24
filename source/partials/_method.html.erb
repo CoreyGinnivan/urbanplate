@@ -1,0 +1,8 @@
+<ul>
+  <% current_page.data.steps.each do |recipe_step, recipe_description| %>
+    <li>
+      <strong><%= recipe_step %>:</strong>
+      <%= recipe_description %>
+    </li>
+  <% end %>
+</ul>
