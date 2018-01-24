@@ -1,5 +1,8 @@
 <ul>
-<% article.ingredients.each do |ingredient| %>
-    <li><%= ingredient %></li>
-<% end %>
+  <% current_page.data.ingredients.each do |ingredient, amount| %>
+    <li>
+      <strong><%= ingredient %>:</strong>
+      <%= amount %>
+    </li>
+  <% end %>
 </ul>
