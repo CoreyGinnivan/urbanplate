@@ -23,12 +23,7 @@ page "/recipes/*", :layout => "recipes"
 # Helpers
 ###
 
-activate :autoprefixer do |prefix|
-  prefix.browsers = "last 2 versions"
-end
 
-activate :livereload
-activate :directory_indexes
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
@@ -57,9 +52,15 @@ end
 
 page "/feed.xml", layout: false
 # Reload the browser automatically whenever files change
-# configure :development do
-#   activate :livereload
-# end
+configure :development do
+  activate :livereload
+end
+
+activate :autoprefixer do |prefix|
+  prefix.browsers = "last 2 versions"
+end
+
+activate :directory_indexes
 
 # Methods defined in the helpers block are available in templates
 # helpers do
