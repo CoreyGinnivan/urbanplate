@@ -1,9 +1,7 @@
 <% page_articles.each_with_index do |article, i| %>
-  <h2>
-    <%= link_to article.title, article %>
-    <span>
-      <%= article.date.strftime('%b %e') %>
-    </span>
-  </h2>
-  <%= article.body %>
+  <div style="background-color: #<%= article.data.accent %>; width: 400px; height: 400px">
+    <h3><%= article.title %></h3>
+    <h4>Subtext</h4>
+    <p>Image goes here</p>
+  </div>
 <% end %>

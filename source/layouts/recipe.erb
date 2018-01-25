@@ -3,9 +3,10 @@
     <%= partial "partials/head" %>
     <body>
         <%= partial "partials/navigation" %>
-        <h2>
+        <div style="background-color: #<%= current_page.data.accent %>; width: 1000px; height: 400px" ></div>
+        <h1>
             <%= current_page.data.title %>
-        </h2>
+        </h1>
         <%= partial "partials/ingredients" %>
         <%= partial "partials/method" %>
         <%= yield %>

@@ -17,6 +17,7 @@ gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 # For feed.xml.builder
 gem "builder", "~> 3.0"
 
-
+# My extra gems
 gem 'middleman-livereload', '~> 3.4.3'
 gem 'middleman-autoprefixer', '~> 2.7'
+gem 'sass-rails'
