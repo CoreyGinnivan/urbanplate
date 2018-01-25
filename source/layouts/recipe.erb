@@ -3,13 +3,21 @@
     <%= partial "partials/head" %>
     <body>
         <%= partial "partials/navigation" %>
-        <div style="background-color: #<%= current_page.data.accent %>; width: 1000px; height: 400px" ></div>
-        <h1>
-            <%= current_page.data.title %>
-        </h1>
-        <%= partial "partials/ingredients" %>
-        <%= partial "partials/method" %>
-        <%= yield %>
+        <div class="recipe__hero" style="background-color: #<%= current_page.data.accent %>">
+            <h1>
+                <%= current_page.data.title %>
+            </h1>
+        </div>
+        <div class="recipe__content">
+            <div class="recipe__ingredients">
+                <h2>Ingredients</h2>
+                <%= partial "partials/ingredients" %>
+            </div>
+            <div class="recipe__method">
+                <h2>Method</h2>
+                <%= partial "partials/method" %>
+            </div>
+        </div>
         <%= partial "partials/footer" %>
     </body>
 </html>

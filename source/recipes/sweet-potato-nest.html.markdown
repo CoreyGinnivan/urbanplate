@@ -8,7 +8,7 @@ ingredients:
     Sweet Potato: 1
     Slices of Bread: 2
     Beansprouts: 500g
-    Eggs: 2
+    Eggs: 1
 steps:
     Step 1: Great up the sweet potato in to strands
     Step 2: Heat up a frypan on medium to high heat

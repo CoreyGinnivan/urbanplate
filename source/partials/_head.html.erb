@@ -6,6 +6,6 @@
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
 
-    <title>Blog Title<%= ' - ' + current_article.title unless current_article.nil? %></title>
+    <title>Urbanplate<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
   </head>
