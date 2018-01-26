@@ -1,7 +1,8 @@
 <ul>
-  <% current_page.data.steps.each do |recipe_step, recipe_description| %>
+  <% current_page.data.steps.each do |recipe_description| %>
     <li>
-      <strong><%= recipe_step %>:</strong>
+      <% count = current_page.data.steps.count %>
+      <span class="recipe__step">Step <%= count %></span>
       <%= recipe_description %>
     </li>
   <% end %>

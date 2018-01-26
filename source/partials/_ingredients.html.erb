@@ -1,8 +1,16 @@
-<ul>
+<table>
   <% current_page.data.ingredients.each do |ingredient, amount| %>
-    <li>
-      <strong><%= amount %>:</strong>
-      <%= ingredient %>
-    </li>
+    <tr>
+      <td>
+        <%= amount %>
+      </td>
+      <td>
+        <%= ingredient %>
+      </td>
+    </tr>
   <% end %>
-</ul>
+</table>
+
+<div class="instagram__info">
+  Follow us on Instagram <a href="#">@UrbanPlate</a> and tag your dishes with <a href="#">#UrbanPlate</a> to win some cool shit.
+</div>

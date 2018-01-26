@@ -6,12 +6,20 @@ tags:
 accent: C0D9D7
 ingredients:
     Cauliflower: 1
-    Carrot: 2
-    Onion: 1
-    Salt and pepper: a pinch
+    Extra Virgin Olive Oil: 90ml
+    Garlic Cloves: 3
+    Fresh tomatoes, diced: 2
+    Cream: 150ml
+    Avocado: 1
+    Angel hair pasta: 450g
+    Fresh Basil: 3 Tbsp
 steps:
-    Step 1: Cut up the cauliflower
-    Step 2: Do something else
-    Step 3: One last thing
+    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor.
+    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
+    - Let simmer for 20 minutes until sauce is reduced.
+    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
+    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
+    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
+    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
 
 ---

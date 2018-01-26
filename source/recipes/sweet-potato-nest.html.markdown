@@ -10,11 +10,11 @@ ingredients:
     Beansprouts: 500g
     Eggs: 1
 steps:
-    Step 1: Great up the sweet potato in to strands
-    Step 2: Heat up a frypan on medium to high heat
-    Step 3: Cook the sweet potato
-    Step 4: ??
-    Step 5: Profit
+    - Great up the sweet potato in to strands
+    - Heat up a frypan on medium to high heat
+    - Cook the sweet potato
+    - ??
+    - Profit
 
 ---
 
