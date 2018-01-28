@@ -1,2 +1,44 @@
 nav
+    width: calc(100vw - 200px)
+    max-width: 1360px
+    display: flex
+    margin: 0 auto
+    position: relative
     height: 70px
+    z-index: 100
+
+    .logo
+        position: absolute
+        top: 10px
+
+
+    .nav__left
+        margin-left: 120px
+
+    .nav__right
+        margin-left: auto
+
+    ul
+        list-style: none
+        display: flex
+        flex-direction: row
+        align-items: center
+
+        li
+            padding-left: 20px
+
+            &:first-child
+                padding-left: 0
+    
+        a
+            font-weight: 600
+            text-decoration: none
+            color: #000000
+
+            &:hover
+                text-decoration: underline
+
+    .active
+    
+        a
+            color: green

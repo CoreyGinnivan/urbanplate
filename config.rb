@@ -88,3 +88,8 @@ configure do
 end
 
 
+helpers do
+  def nav_active(path)
+    current_page.path == path ? {:class => "active" } : {:class => ""}
+  end
+end
