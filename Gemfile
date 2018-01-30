@@ -21,3 +21,4 @@ gem "builder", "~> 3.0"
 gem 'middleman-livereload', '~> 3.4.3'
 gem 'middleman-autoprefixer', '~> 2.7'
 gem 'sass-rails'
+gem 'middleman-aria_current'

@@ -63,12 +63,11 @@ activate :autoprefixer do |prefix|
 end
 
 activate :directory_indexes
+activate :aria_current
 
 # Methods defined in the helpers block are available in templates
 # helpers do
-#   def some_helper
-#     "Helping"
-#   end
+
 # end
 
 # Build-specific configuration
@@ -88,8 +87,4 @@ configure do
 end
 
 
-helpers do
-  def nav_active(path)
-    current_page.path == path ? {:class => "active" } : {:class => ""}
-  end
-end
+

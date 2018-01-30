@@ -1,7 +1,14 @@
+---
+title: Urban Plate - Simple but impressive vego dishes
+meta_description: Connecting web, creative and digital communities &amp; unearthing local talent across Australia.
+---
+
 <% page_articles.each_with_index do |article, i| %>
-  <div style="background-color: #<%= article.data.accent %>; width: 400px; height: 400px">
-    <h3><%= article.title %></h3>
-    <h4>Subtext</h4>
-    <p>Image goes here</p>
-  </div>
+  <% link_to article.url do %>
+    <div style="background-color: #<%= article.data.accent %>; width: 400px; height: 400px">
+      <h3><%= article.title %></h3>
+      <h4>Subtext</h4>
+      <p>Image goes here</p>
+    </div>
+  <% end %>
 <% end %>

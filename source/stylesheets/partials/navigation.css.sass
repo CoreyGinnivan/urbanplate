@@ -13,32 +13,29 @@ nav
 
 
     .nav__left
-        margin-left: 120px
+        margin-left: 170px
 
     .nav__right
         margin-left: auto
 
-    ul
+    .nav__left, .nav__right
         list-style: none
         display: flex
         flex-direction: row
         align-items: center
-
-        li
-            padding-left: 20px
-
-            &:first-child
-                padding-left: 0
     
         a
             font-weight: 600
             text-decoration: none
             color: #000000
+            padding-left: 20px
+
+            &:first-child
+                padding-left: 0
 
             &:hover
                 text-decoration: underline
 
-    .active
-    
-        a
-            color: green
+
+[aria-current]:not([aria-current="false"])
+    color: green

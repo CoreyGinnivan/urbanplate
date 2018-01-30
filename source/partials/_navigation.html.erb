@@ -1,16 +1,13 @@
 <nav>
     <%= image_tag 'logo_urbanplate.svg', :width => '150', :class => 'logo' %>
-    <ul class="nav__left">
-        <li><%= link_to 'Browse All Recipes', '/index' %></li>
-    </ul>
-    <ul class="nav__right">
-        <li><%= link_to 'Cauliflower', '/recipe/cauliflower-steak' %></li>
-        <li><%= link_to 'Sweet Potato', '/recipe/sweet-potato-nest' %></li>
-        <li><%= link_to 'Home', '/index' %></li>
-        <li>
-            <% link_to 'http://instagram.com/coreyginnivan' do %>
-                <%= image_tag 'logo_urbanplate.svg', :width => '20' %>
-            <% end %>
-        </li>
-    </ul>
+    <div class="nav__left">
+        <%= current_link_to "Browse All Recipes", "/" %>
+    </div>
+    <div class="nav__right">
+        <%= current_link_to "About", "/recipe/cauliflower-steak/" %>
+        <%= current_link_to "Become a Sponsor", "/recipe/sweet-potato-nest/" %>
+        <% link_to 'http://instagram.com/coreyginnivan' do %>
+            <%= image_tag 'logo_urbanplate.svg', :width => '20' %>
+        <% end %>
+    </div>
 </nav>
