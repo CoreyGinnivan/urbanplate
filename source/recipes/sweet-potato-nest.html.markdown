@@ -1,7 +1,7 @@
 ---
 
 title: Sweet Potato Hash Nest
-subtext: with Poached Egg
+subtext: with Slow Cooked Eggs
 date: 2018-01-25 03:21 UTC
 tags: 
 accent: EEDEDE

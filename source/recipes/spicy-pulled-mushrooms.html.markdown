@@ -1,7 +1,7 @@
 ---
 
 title: Spicy Pulled Mushrooms
-subtext: with Slow Cooked Eggs on Brioche French Toast
+subtext: with Scrambled Eggs on Brioche French Toast
 date: 2018-02-01 03:26 UTC
 tags: 
 accent: C5C2E2
