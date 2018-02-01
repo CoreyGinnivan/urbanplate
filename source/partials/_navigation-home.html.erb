@@ -1,8 +1,9 @@
 <nav>
     <div class="nav__right">
+        <%= current_link_to "Store (Coming Soon)", "#", class: "coming-soon" %>
         <%= current_link_to "About", "/recipe/cauliflower-steak/" %>
         <%= current_link_to "Become a Supportor", "/recipe/sweet-potato-nest/" %>
-        <% link_to 'http://instagram.com/coreyginnivan' do %>
+        <% link_to 'http://instagram.com/urbanplateco', target: "_blank" do %>
             <%= image_tag 'icon_instagram.svg', :width => '22' %>
         <% end %>
     </div>

@@ -13,9 +13,12 @@ meta_description: Connecting web, creative and digital communities &amp; unearth
 
 <div class="wrapper">
   <% page_articles.each_with_index do |article, i| %>
-    <% accent = article.data.accent%>
+    <% accent = article.data.accent %>
     <% accent_alt = article.data.accent_alt %>
     <% link_to(article.url, :style => "background-color: ##{accent}", :class => "wrapper__recipe") do %>
+      <% if article.data.date > 1.day.ago %>
+        <span class="new">New!</span>
+      <% end %>
       <h3><%= article.title %></h3>
       <p style="color: #<%= accent_alt %>"><%= article.data.subtext %></p>
     <% end %>

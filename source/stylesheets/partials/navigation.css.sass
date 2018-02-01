@@ -10,6 +10,22 @@ nav
     .logo
         position: absolute
         top: 10px
+        transform: rotate(0deg)
+        transition: transform 0.2s ease
+        cursor: pointer
+
+        &:hover
+            cursor: pointer
+            transform: rotate(-14deg)
+            transform-origin: center
+            transition: transform 0.2s ease
+
+    .coming-soon
+        opacity: 0.5
+
+        &:hover
+            cursor: auto
+            text-decoration: none !important
 
 
     .nav__left
