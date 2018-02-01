@@ -1,9 +1,11 @@
 ---
 
-title: Sweet Potato Nest
+title: Sweet Potato Hash Nest
+subtext: with Poached Egg
 date: 2018-01-25 03:21 UTC
 tags: 
 accent: EEDEDE
+accent_alt: dc8181
 ingredients:
     Sweet Potato: 1
     Slices of Bread: 2

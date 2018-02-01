@@ -1,20 +1,13 @@
 ---
 
-title: Mint and Honey Cauliflower Steak
-subtext: with Silky Potatoes
-date: 2018-01-24 12:26 UTC
-tags:
-accent: C0D9D7
-accent_alt: 246f69
+title: Spicy Pulled Mushrooms
+subtext: with Slow Cooked Eggs on Brioche French Toast
+date: 2018-02-01 03:26 UTC
+tags: 
+accent: C5C2E2
+accent_alt: 574db1
 ingredients:
-    Cauliflower: 1
-    Extra Virgin Olive Oil: 90ml
-    Garlic Cloves: 3
-    Fresh tomatoes, diced: 2
-    Cream: 150ml
-    Avocado: 1
-    Angel hair pasta: 450g
-    Fresh Basil: 3 Tbsp
+    Mushrooms: 1
 steps:
     - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor.
     - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.

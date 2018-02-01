@@ -3,12 +3,23 @@ title: Urban Plate - Simple but impressive vego dishes
 meta_description: Connecting web, creative and digital communities &amp; unearthing local talent across Australia.
 ---
 
-<% page_articles.each_with_index do |article, i| %>
-  <% link_to article.url do %>
-    <div style="background-color: #<%= article.data.accent %>; width: 400px; height: 400px">
+<div class="header">
+  <%= image_tag 'logo_urbanplate.svg', :width => '150', :class => 'logo' %>
+  <h2>
+    Simple vego food that tastes delicious, is easy to make, and will impress anyone that sits in-front of them. This isn’t your usual vegetarian site.
+  </h2>
+
+</div>
+
+<div class="wrapper">
+  <% page_articles.each_with_index do |article, i| %>
+    <% accent = article.data.accent%>
+    <% accent_alt = article.data.accent_alt %>
+    <% link_to(article.url, :style => "background-color: ##{accent}", :class => "wrapper__recipe") do %>
       <h3><%= article.title %></h3>
-      <h4>Subtext</h4>
-      <p>Image goes here</p>
-    </div>
+      <p style="color: #<%= accent_alt %>"><%= article.data.subtext %></p>
+    <% end %>
   <% end %>
-<% end %>
+</div>
+
+

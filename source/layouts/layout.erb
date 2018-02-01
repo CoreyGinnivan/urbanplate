@@ -1,13 +1,9 @@
 <!doctype html>
 <html>
   <%= partial "partials/head" %>
-
   <body>
-    <%= partial "partials/navigation" %>
-    <div id="main" role="main">
-      <%= yield %>
-    </div>
-    <%= partial "partials/subscribe" %>
+    <%= partial "partials/navigation-home" %>
+    <%= yield %>
     <%= partial "partials/footer" %>
   </body>
 </html>
