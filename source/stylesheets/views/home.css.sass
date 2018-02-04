@@ -33,6 +33,9 @@
     grid-template-columns: repeat(auto-fill, minmax(340px, 1fr))
     grid-auto-rows: minmax(340px, auto)
 
+
+
+
 .wrapper__recipe
     /* needed for the flex layout*/
     margin-left: 5px
@@ -55,8 +58,9 @@
     display: flex
     justify-content: flex-start
     flex-direction: column
-    padding: 50px
+    padding: 20px
     position: relative
+    overflow: hidden
 
     h3
         font-weight: 900
@@ -74,19 +78,50 @@
         font-style: italic
         line-height: 20px
 
+    img
+        width: 320px
+        position: absolute
+        left: 10px
+        right: 0
+        bottom: 0
+
     &:first-child
         grid-column-start: span 2
         grid-row-start: span 2
+        padding: 80px
 
         h3
             font-size: 32px
             letter-spacing: 8px
             line-height: 32px
+            transition: font-size 0.5s ease
 
         p
             font-size: 26px
             margin: 10px 30px
             line-height: 32px
+            transition: font-size 0.5s ease
+
+        img
+            width: 640px
+            position: absolute
+            bottom: 20px
+
+        @media only screen and (max-width : 1024px)
+            grid-column-start: auto
+            grid-row-start: auto
+
+            h3
+                font-size: 16px
+                letter-spacing: 2.8px
+                line-height: 20px
+                transition: font-size 0.5s ease
+
+            p
+                font-size: 16px
+                margin: 5px 30px
+                line-height: 20px
+                transition: font-size 0.5s ease
 
     .new
         position: absolute
