@@ -10,7 +10,6 @@
 page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
-# page "/recipes/*", :layout => "recipes"
 
 # With alternative layout
 # page "/path/to/file.html", layout: :otherlayout
@@ -41,6 +40,7 @@ activate :blog do |blog|
   # blog.month_link = "{year}/{month}.html"
   # blog.day_link = "{year}/{month}/{day}.html"
   # blog.default_extension = ".markdown"
+  blog.new_article_template = File.expand_path('recipe_meta.erb', File.dirname(__FILE__))
 
   blog.tag_template = "tag.html"
   # blog.calendar_template = "calendar.html"
@@ -53,6 +53,7 @@ activate :blog do |blog|
 end
 
 page "/feed.xml", layout: false
+
 # Reload the browser automatically whenever files change
 configure :development do
   activate :livereload
