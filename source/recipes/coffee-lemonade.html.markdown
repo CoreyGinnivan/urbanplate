@@ -2,9 +2,11 @@
 
 title: Coffee Lemonade
 date: 2018-02-01 08:26 UTC
-tags: 
+tags:
+image: recipes/crispy-gnocchi.png
 accent: FFF5CF
 accent_alt: 
+intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas faucibus mollis interdum.
 ingredients:
     Cold Brew Coffee: 1 Cup
     Yuzu Puree (or Lemon): 1 tspn

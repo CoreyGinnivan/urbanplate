@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
     <%= partial "partials/head" %>
     <body>
@@ -8,6 +9,9 @@
             </h1>
             <%= image_tag 'recipes/crispy-gnocchi.png', :width => '700' %>
         </div>
+        <h2 class="recipe__intro">
+            <%= current_page.data.intro %>
+        </h2>
         <div class="recipe__content">
             <div class="recipe__ingredients">
                 <h2>Ingredients</h2>

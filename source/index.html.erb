@@ -1,6 +1,6 @@
 ---
 title: Urban Plate - Simple but impressive vego dishes
-meta_description: Connecting web, creative and digital communities &amp; unearthing local talent across Australia.
+meta_description: Simple vegetarian dishes that dress to impress in the food world
 ---
 
 <div class="header">
@@ -24,7 +24,7 @@ meta_description: Connecting web, creative and digital communities &amp; unearth
           <p style="color: #<%= accent_alt %>"><%= article.data.subtext %></p>
         <% end %>
       </div>
-      <%= image_tag 'recipes/crispy-gnocchi.png'%>
+      <%= image_tag "#{article.data.image}" %>
     <% end %>
   <% end %>
 </div>
