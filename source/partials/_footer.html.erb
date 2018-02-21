@@ -4,7 +4,8 @@
             <%= image_tag 'logo_urbanplate--white.svg', :width => '100' %>
         <% end %>
         <p>
-            Urban Plate is supported by people and companies that love and live for food. They allow me to do what I do! All while avoiding filling your face full of ads. Respect.
+            Urban Plate is supported by people and companies that love and live for food. </br>
+            They allow me to do what I do! All while avoiding filling your face full of ads. Respect.
         </p>
     </div>
     <div class="links__wrapper">
@@ -12,7 +13,7 @@
              <%= link_to "Become a Supportor", "/recipe/cauliflower-steak/"  %>
              <%= link_to "About Urban Plate", "/recipe/cauliflower-steak/"  %>
              <%= link_to "Terms & Legal", "/recipe/cauliflower-steak/"  %>
-             <%= link_to "Contact Us", "/recipe/cauliflower-steak/"  %>
+             <%= mail_to "corey@ginnivan.net", "Contact Us", subject: "Hi Corey 👋" %>
         </div>
         <div class="footer__right">
             <% link_to 'http://instagram.com/urbanplateco', target: "_blank" do %>
