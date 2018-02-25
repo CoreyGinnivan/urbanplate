@@ -17,12 +17,13 @@
 
 <div id="navbar-toggle" style="display:none;">
     <ul class="highlight-menu">
-        <li><a href="/" title="Home"><span>Home</span></a></li>
-        <li><a href="/about" title="About"><span>About</span></a></li>
-        <li><a href="/calendar" title="Events Calendar"><span>Calendar</span></a></li>
-        <li><a href="/projects/deployment/info/" title="Deployment"><span>Deployment</span></a></li>
-        <li><a href="/blog" title="Blog"><span>Blog</span></a></li>
-        <li><a href="/code-of-conduct" title="Code of Conduct"><span>Code of Conduct</span></a></li>
-        <li><a href="/call-for-speakers" title="Submit a talk"><span>Submit a talk</span></a></li>
+        <li><%= current_link_to "Browse All Recipes", "/"%></li>
+        <li><%= current_link_to "Store (Coming Soon)", "#", class: "coming-soon" %></li>
+        <li><%= current_link_to "The Pantry", "/the_pantry/" %></a></li>
+        <li><%= current_link_to "About", "/about/" %></li>
+        <li><%= current_link_to "Become a Supportor", "/recipe/cauliflower-steak/"  %></li>
+        <li><%= link_to "About Urban Plate", "/recipe/cauliflower-steak/"  %></li>
+        <li><%= link_to "Terms & Legal", "/recipe/cauliflower-steak/"  %></li>
+        <li><%= mail_to "corey@ginnivan.net", "Contact Us", subject: "Hi Corey 👋" %></li>
     </ul>
 </div>

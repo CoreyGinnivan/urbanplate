@@ -1,0 +1,22 @@
+{
+  "name": "urbanplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreyGinnivan/urbanplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreyGinnivan/urbanplate/issues"
+  },
+  "homepage": "https://github.com/CoreyGinnivan/urbanplate#readme",
+  "dependencies": {
+    "modaal": "^0.3.1"
+  }
+}
