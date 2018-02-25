@@ -2,10 +2,7 @@
 //= require clipboard
 
 $(document).ready(function(){  
-  
     var clipboard = new Clipboard('.clipboard');
-    console.log(clipboard);
-      
 });
 
 $('.navbar-toggle').on('click', function(){

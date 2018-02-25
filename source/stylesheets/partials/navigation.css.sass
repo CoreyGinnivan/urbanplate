@@ -7,6 +7,9 @@ nav
     height: 70px
     z-index: 100
 
+    @media only screen and (max-width: 599px)
+        width: calc(100vw - 60px)
+
     .logo
         position: absolute
         top: 10px
@@ -43,6 +46,12 @@ nav
     .nav__right
         margin-left: auto
 
+        @media only screen and (max-width: 1024px)
+            margin-right: auto
+
+        @media only screen and (max-width: 599px)
+            margin-right: 0
+
     .nav__left, .nav__right
         list-style: none
         display: flex
@@ -67,7 +76,15 @@ nav
     [aria-current]:not([aria-current="false"])
         text-decoration: underline
 
+.nav__mobile
+    
+    @media only screen and (min-width: 600px)
+        display: none !important
 
+.nav__desktop
+    
+    @media only screen and (max-width: 599px)
+        display: none !important
 
 .navbar-toggle
     background: transparent

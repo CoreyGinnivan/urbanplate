@@ -9,9 +9,22 @@
     display: flex
     margin: 50px auto 100px auto
 
+    @media only screen and (max-width: 1024px)
+        flex-direction: column
+        text-align: center
+        padding: 0 40px
+        align-items: center
+
+    @media only screen and (max-width: 599px)
+        margin: 20px auto 50px auto
+
     h2
         width: calc(56vw)
         margin-left: 30px
+
+        @media only screen and (max-width: 1024px)
+            width: calc(90vw)
+            margin: 20px 0 0 0
 
 .wrapper
     padding: 0 20px

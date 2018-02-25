@@ -9,9 +9,22 @@ footer
         align-items: center
         margin: 20px auto 60px auto
 
+        @media only screen and (max-width: 1024px)
+            flex-direction: column
+            text-align: center
+            padding: 0 40px
+            align-items: center
+
+        @media only screen and (max-width: 599px)
+            margin: 0 auto
+
         p
             width: calc(50vw)
             margin-left: 30px
+
+            @media only screen and (max-width: 1024px)
+                width: calc(90vw)
+                margin: 20px 0 0 0
 
 
     .links__wrapper
@@ -19,6 +32,9 @@ footer
         flex-direction: row
         margin: 0 auto
         z-index: 100
+
+        @media only screen and (max-width: 599px)
+            display: none
 
     .footer__right
         margin-left: auto

@@ -17,8 +17,7 @@ steps:
     - Start by pouring the Yuzu Puree and Lemon Juice in to the bottom of the cup and muddle together
     - Fill your glass with ice
     - Pour in your cold brew coffee (or any filtered black coffee)
-    - Top with Sparkling Water
-    - Drink and feel refreshed *heavy breathing*
+    - Top with Sparkling Water and throw in a slice of lemon if you're fancy (you are)
 
 ---
 

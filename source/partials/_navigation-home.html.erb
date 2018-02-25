@@ -1,11 +1,13 @@
 <nav>
-    <div class="nav__right">
+    <div class="nav__right nav__desktop">
         <%= current_link_to "Store (Coming Soon)", "#", class: "coming-soon" %>
         <%= current_link_to "The Pantry", "/the_pantry/" %>
         <%= current_link_to "About", "/about/" %>
         <% link_to 'http://instagram.com/urbanplateco', class: "instragram", target: "_blank" do %>
             <%= image_tag 'icon_instagram.svg', :width => '22' %>
         <% end %>
+    </div>
+    <div class="nav__right nav__mobile">
         <a href="#navbar-toggle" class="navbar-toggle">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
