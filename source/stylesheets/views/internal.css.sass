@@ -29,19 +29,25 @@
         display: grid
         grid-gap: 1rem
         grid-template-columns: repeat(auto-fill, minmax(370px, auto))
-        grid-auto-rows: minmax(26vh, 270px)
+        grid-auto-rows: minmax(26vh, auto)
 
     .pantry__list
-        border: 6px solid #000000
-        padding: 30px
 
         ul
             margin: 0
-            padding: 0 20px
+            border: 6px solid #000000
+            padding: 0
+            // height: calc(100% - 60px)
+            list-style-type: none
 
             li
-                margin-bottom: 6px
+                padding: 10px
+                color: #201e1f
+                font-weight: 600
+                border-bottom: 2px solid #000000
 
+                &:last-child
+                    border-bottom: 0
 
 
 
