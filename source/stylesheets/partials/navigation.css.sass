@@ -55,6 +55,7 @@ nav
             color: #000000
             padding-left: 20px
             display: flex
+            flex-direction: column
 
             &:first-child
                 padding-left: 0
@@ -65,3 +66,122 @@ nav
 
     [aria-current]:not([aria-current="false"])
         text-decoration: underline
+
+
+
+.navbar-toggle
+    background: transparent
+    border: 0
+    cursor: pointer
+
+    &.active
+        .icon-bar
+
+            + .icon-bar
+                margin-top: 0
+
+            &:nth-child(1)
+                transform: translateY(2px), rotate(45deg)
+
+            &:nth-child(2)
+                width: 0
+
+            &:nth-child(3)
+                transform: translateY(-2px), rotate(-45deg)
+
+    &:focus
+        outline: none
+
+    &:hover
+        .icon-bar
+            background: red
+
+    .icon-bar
+        width: 25px
+        height: 2px
+        background: #000
+        transform-origin: 50% 50%
+        display: block
+        transition: 0.2s ease-in-out all
+
+        + .icon-bar
+            margin-top: 3px
+
+.modaal-fullscreen .modaal-close
+    background: transparent
+
+    &:before, &:after
+        background: #000
+
+.modaal-inline
+    .modaal-container
+        .modaal-content
+            width: 100%
+            max-width: 800px
+            margin: 0 auto
+            height: 100%
+
+            .modaal-content-container
+                display: flex
+                flex-direction: column
+                justify-content: space-between
+                height: 100%
+
+
+.sr-only
+    position: absolute
+    width: 1px
+    height: 1px
+    padding: 0
+    margin: -1px
+    overflow: hidden
+    clip: rect(0,0,0,0)
+    border: 0
+
+
+.highlight-menu
+    padding: 0
+    margin-bottom: 30px
+
+    li
+        list-style: none
+        text-align: center
+
+        a
+        font-weight: 700
+        color: #000000
+        letter-spacing: em(5.3, 40)
+        line-height: em(43, 40)
+        text-transform: uppercase
+        border: 0
+        display: block
+        padding: 14px 0
+
+        .modaal-content-container &
+            @media (min-width: 600px)
+                font-size: em(40)
+
+        span
+            display: inline-block
+            position: relative
+            padding: 0 10px
+
+        &:after
+            position: absolute
+            display: block
+            content: ""
+            top: 0
+            bottom: 0
+            left: 0
+            right: 100%
+            background: red
+            transition: transform 0.2s ease
+            z-index: -1
+
+        &:hover, &:focus
+            // color:#fff
+
+            span
+                
+                &:after
+                    right: 0

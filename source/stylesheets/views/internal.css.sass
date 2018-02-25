@@ -37,7 +37,6 @@
             margin: 0
             border: 6px solid #000000
             padding: 0
-            // height: calc(100% - 60px)
             list-style-type: none
 
             li
@@ -45,9 +44,19 @@
                 color: #201e1f
                 font-weight: 600
                 border-bottom: 2px solid #000000
+                display: flex
+                align-items: center
 
                 &:last-child
                     border-bottom: 0
+
+            .musthave::after
+                content: "Must Have"
+                font-weight: 800
+                text-transform: uppercase
+                font-size: 10px
+                color: #0000ee
+                margin-left: 5px
 
 
 

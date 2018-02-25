@@ -1,9 +1,11 @@
 // This is where it all goes :)
 //= require clipboard
 
-$(document).ready(function(){  
+$('.navbar-toggle').on('click', function(){
+    //  $(this).toggleClass('active');
+   });
   
-    var clipboard = new Clipboard('.clipboard');
-    console.log(clipboard);
-      
+$('.navbar-toggle').modaal({
+    fullscreen: true
 });
+  

@@ -6,7 +6,7 @@ tags:
 image: recipes/crispy-gnocchi.png
 accent: FFF5CF
 accent_alt: 
-intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas faucibus mollis interdum.
+intro: Bitter, sweet and sour all in one amazing refreshing drink. What more could you ask for really.
 ingredients:
     Cold Brew Coffee: 1 Cup
     Yuzu Puree (or Lemon): 1 tspn
@@ -14,9 +14,9 @@ ingredients:
     Sparkling Water: 1/3 Cup
     Ice: Handful
 steps:
-    - Start buy pour the Yuzu Puree and Lemon Juice in to the bottom of the cup and muddle together
-    - Add your handful of ice to fill the cup
-    - Pour in your Cold Brew Coffee (or any filtered black coffee)
+    - Start by pouring the Yuzu Puree and Lemon Juice in to the bottom of the cup and muddle together
+    - Fill your glass with ice
+    - Pour in your cold brew coffee (or any filtered black coffee)
     - Top with Sparkling Water
     - Drink and feel refreshed *heavy breathing*
 
