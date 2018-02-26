@@ -1,4 +1,4 @@
-<nav>
+<nav class="nav__desktop--large">
     <% link_to '/', :class => 'logo' do %>
         <%= image_tag 'logo_urbanplate.svg', :width => '150' %>
     <% end %>
@@ -14,3 +14,34 @@
         <% end %>
     </div>
 </nav>
+
+<nav class="nav__mobile--large">
+    <% link_to '/', :class => 'logo' do %>
+        <%= image_tag 'logo_urbanplate.svg', :width => '100' %>
+    <% end %>
+    <div class="nav__right">
+        <%= current_link_to "Browse All Recipes", "/" %>
+        <a href="#navbar-toggle" class="navbar-toggle">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="sr-only">Toggle Navigation Menu</span>
+        </a>
+    </div>
+</nav>
+
+
+<div id="navbar-toggle" style="display:none;">
+    <ul class="highlight-menu">
+        <li><%= current_link_to "Browse All Recipes", "/"%></li>
+        <li><%= current_link_to "Store (Coming Soon)", "#", class: "coming-soon" %></li>
+        <li><%= current_link_to "The Pantry", "/the_pantry/" %></a></li>
+        <li><%= current_link_to "About", "/about/" %></li>
+        <li><%= current_link_to "Become a Supportor", "/recipe/cauliflower-steak/"  %></li>
+        <li><%= link_to "About Urban Plate", "/recipe/cauliflower-steak/"  %></li>
+        <li><%= link_to "Terms & Legal", "/recipe/cauliflower-steak/"  %></li>
+        <li><%= mail_to "corey@ginnivan.net", "Contact Us", subject: "Hi Corey 👋" %></li>
+    </ul>
+</div>
+
+

@@ -7,8 +7,11 @@ nav
     height: 70px
     z-index: 100
 
+    @media only screen and (max-width: 1023px)
+        width: calc(100vw - 100px)
+
     @media only screen and (max-width: 599px)
-        width: calc(100vw - 60px)
+        width: calc(100vw - 40px)
 
     .logo
         position: absolute
@@ -46,9 +49,6 @@ nav
     .nav__right
         margin-left: auto
 
-        @media only screen and (max-width: 1024px)
-            margin-right: auto
-
         @media only screen and (max-width: 599px)
             margin-right: 0
 
@@ -84,6 +84,17 @@ nav
 .nav__desktop
     
     @media only screen and (max-width: 599px)
+        display: none !important
+
+
+.nav__mobile--large
+    
+    @media only screen and (min-width: 1024px)
+        display: none !important
+
+.nav__desktop--large
+    
+    @media only screen and (max-width: 1023px)
         display: none !important
 
 .navbar-toggle
@@ -165,14 +176,14 @@ nav
         text-align: center
 
         a
-        font-weight: 700
-        color: #000000
-        letter-spacing: em(5.3, 40)
-        line-height: em(43, 40)
-        text-transform: uppercase
-        border: 0
-        display: block
-        padding: 14px 0
+            font-weight: 700
+            color: #000000
+            letter-spacing: em(5.3, 40)
+            line-height: em(43, 40)
+            text-transform: uppercase
+            border: 0
+            display: block
+            padding: 14px 0
 
         .modaal-content-container &
             @media (min-width: 600px)
