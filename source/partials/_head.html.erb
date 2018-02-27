@@ -4,10 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <%= stylesheet_link_tag "site" %>
-    <%= javascript_include_tag "jquery.min" %>
-    <%= javascript_include_tag "modaal.min" %>
-    <%= javascript_include_tag "clipboard.min" %>
-    <%= javascript_include_tag "site" %>
 
     <title>Urban Plate<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
