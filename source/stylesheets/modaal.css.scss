@@ -10,8 +10,8 @@
 $modaal-overlay-color: rgba(255,255,255, 0.95);
 
 $modaal-radius: 0px; //5px
-$modaal-main-bg: transparent;
-$modaal-main-text: #000;
+$modaal-main-bg: #000000;
+$modaal-main-text: #FFF;
 $modaal-max-width: 1000px;
 $modaal-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 $modaal-padding: 30px;
@@ -174,7 +174,7 @@ $modaal-grey: #afb7bc;
 		outline: none;
 		background: #fff;
 		&:before,
-		&:after { background: red; }
+		&:after { background: #5d5d5d; }
 	}
 	span {
 		@include modaal-hidetext;

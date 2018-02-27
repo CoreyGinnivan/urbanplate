@@ -122,7 +122,10 @@ nav
 
     &:hover
         .icon-bar
-            background: red
+            background: #a9a9a9
+
+            + .icon-bar
+                margin-top: 6px
 
     .icon-bar
         width: 25px
@@ -139,7 +142,7 @@ nav
     background: transparent
 
     &:before, &:after
-        background: #000
+        background: #FFFFFF
 
 .modaal-inline
     .modaal-container
@@ -173,11 +176,11 @@ nav
 
     li
         list-style: none
-        text-align: center
+        text-align: left
 
         a
             font-weight: 700
-            color: #000000
+            color: #FFFFFF
             letter-spacing: em(5.3, 40)
             line-height: em(43, 40)
             text-transform: uppercase
@@ -202,7 +205,7 @@ nav
             bottom: 0
             left: 0
             right: 100%
-            background: red
+            background: #a9a9a9
             transition: transform 0.2s ease
             z-index: -1
 
