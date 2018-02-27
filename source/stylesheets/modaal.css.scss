@@ -7,7 +7,7 @@
 // Modaal Variables
 // --------------------------------------------------------
 
-$modaal-overlay-color: rgba(255,255,255, 0.95);
+$modaal-overlay-color: rgba(0,0,0, 0.95);
 
 $modaal-radius: 0px; //5px
 $modaal-main-bg: #000000;
@@ -160,7 +160,7 @@ $modaal-grey: #afb7bc;
 .modaal-close {
 	position: fixed;
 	right: 26px;
-  top: 30px;
+  	top: 30px;
 	color: $modaal-light;
 	cursor: pointer;
 	opacity: 1;
