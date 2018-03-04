@@ -4,7 +4,7 @@ title: Mint and Honey Cauliflower Steak
 subtext: with Silky Potatoes
 date: 2018-01-24 12:26 UTC
 tags:
-image: recipes/crispy-gnocchi.png
+image: recipes/mint-cauliflower-steak.png
 accent: C0D9D7
 accent_alt: 246f69
 intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas faucibus mollis interdum.

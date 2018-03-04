@@ -3,7 +3,7 @@
 title: Coffee Lemonade
 date: 2018-02-01 08:26 UTC
 tags:
-image: recipes/crispy-gnocchi.png
+image: recipes/coffee-lemonade.png
 accent: FFF5CF
 accent_alt: 
 intro: Bitter, sweet and sour all in one amazing refreshing drink. What more could you ask for really.

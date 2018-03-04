@@ -27,21 +27,22 @@
             text-align: center
             max-width: 100%
             padding: 0 20px
+            height: 180px
+            display: flex
+            align-items: center
 
     img
-        right: 0
-        top: 40px
+        right: -40px
+        bottom: -110px
         position: absolute
 
         @media only screen and (max-width: 599px)
-            width: calc(100vw) !important
-            transform: none !important
-            top: 36%
+            width: 400px !important
 
         @media only screen and (max-width: 1023px)
-            width: calc(60vw)
-            top: 48%
-            transform: translate(-24%)
+            width: 510px
+            transform: translate(50%, 0)
+            right: 50%
             
 
 .recipe__intro
@@ -59,14 +60,28 @@
     margin: 0 auto
     padding: 40px 0 140px 0
 
+    @media only screen and (max-width: 1023px)
+        flex-direction: column
+        padding: 0 0 80px 0
+        width: calc(100vw - 80px)
+
 .recipe__ingredients
-    min-width: 420px
     max-width: 440px
+    min-width: 420px
     margin-right: 80px
     margin-left: 40px
 
+    @media only screen and (max-width: 1023px)
+        margin-left: 0
+        margin-right: 0
+        max-width: 100%
+        min-width: auto
+
     h2
         margin-bottom: 40px
+
+        @media only screen and (max-width: 1023px)
+            margin-bottom: 10px
 
     table
         font-size: 16px
@@ -123,8 +138,15 @@
     width: auto
     padding-right: 40px
 
+    @media only screen and (max-width: 1023px)
+        padding-right: 0
+        margin-top: 20px
+
     h2
         margin-bottom: 40px
+
+        @media only screen and (max-width: 1023px)
+            margin-bottom: 10px
 
     ul
         font-size: 16px
@@ -147,10 +169,11 @@
 
 .instagram__info
     margin-top: 30px
-    font-size: 22px
     color: #1E1E1E
     letter-spacing: 0.3px
-    line-height: 33px
+
+    @media only screen and (max-width: 1023px)
+        margin-top: 10px
 
     a
         color: #1E1E1E

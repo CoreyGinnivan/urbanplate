@@ -1,10 +1,10 @@
 ---
 
 title: Spicy Pulled Mushrooms
-subtext: with Scrambled Eggs on Brioche French Toast
+subtext: with Creamy Scrambled Eggs
 date: 2018-02-01 03:26 UTC
 tags: 
-image: recipes/crispy-gnocchi.png
+image: recipes/pulled-mushrooms.png
 accent: C5C2E2
 accent_alt: 574db1
 intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas faucibus mollis interdum.
