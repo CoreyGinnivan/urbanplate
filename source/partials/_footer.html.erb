@@ -14,12 +14,10 @@
     </div>
     <div class="links__wrapper">
         <div class="footer__left">
-             <%= link_to "About Urban Plate", "/about/"  %>
-             <%= link_to "Terms & Legal", "/legal/"  %>
-             <%= mail_to "corey@ginnivan.net", "Contact Us", subject: "Hi Corey 👋" %>
-        </div>
-        <div class="footer__right">
-            <% link_to 'http://instagram.com/urbanplateco', target: "_blank" do %>
+            <%= link_to "About Urban Plate", "/about/"  %>
+            <%= link_to "Terms & Legal", "/legal/"  %>
+            <%= mail_to "corey@ginnivan.net", "Contact Us", subject: "Hi Corey 👋" %>
+            <% link_to 'http://instagram.com/urbanplateco', target: "_blank", class: "footer__right" do %>
                 Instagram
                 <%= image_tag 'icon_instagram--white.svg', :width => '22' %>
             <% end %>

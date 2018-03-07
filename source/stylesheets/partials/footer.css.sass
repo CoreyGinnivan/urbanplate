@@ -30,33 +30,48 @@ footer
     .links__wrapper
         display: flex
         flex-direction: row
-        margin: 0 auto
+        margin-top: 20px
         z-index: 100
+        flex-wrap: wrap
 
         @media only screen and (max-width: 599px)
-            display: none
+            flex-direction: column
 
     .footer__right
         margin-left: auto
 
-    .footer__left, .footer__right
+        @media only screen and (max-width: 599px)
+            margin-left: 0
+
+    .footer__left
         list-style: none
         display: flex
         flex-direction: row
         align-items: center
+        width: 100%
 
-    a
-        font-weight: 600
-        text-decoration: none
-        color: #FFFFFF
-        padding-left: 20px
-        display: flex
+        @media only screen and (max-width: 599px)
+            flex-direction: column
 
-        &:first-child
-            padding-left: 0
+        a
+            font-weight: 600
+            text-decoration: none
+            color: #FFFFFF
+            padding-left: 20px
+            display: flex
+            flex: 1
+            white-space: nowrap
+            align-items: center
 
-        &:hover
-            text-decoration: underline
+            @media only screen and (max-width: 599px)
+                flex: 1 0 50%
+                padding-left: 0
 
-        img
-            margin-left: 10px
+            &:first-child
+                padding-left: 0
+
+            &:hover
+                text-decoration: underline
+
+            img
+                margin-left: 10px
