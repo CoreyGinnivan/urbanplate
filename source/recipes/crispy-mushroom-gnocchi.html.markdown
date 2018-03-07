@@ -8,6 +8,7 @@ image: recipes/crispy-gnocchi.png
 accent: f4d3c4
 accent_alt: d1754b
 intro: Soft (but cripsy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.
+prep_time: 15 mins
 time: 1 hour
 serves: 4 ppl
 ingredients:

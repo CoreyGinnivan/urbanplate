@@ -8,6 +8,7 @@ image: recipes/mint-cauliflower-steak.png
 accent: C0D9D7
 accent_alt: 246f69
 intro: Perfect for a winter comfort meal with a twist. Cripsy seared cauliflower on the outside, but soft and tender on the inside, served with creamy mashed potato and salad.
+prep_time: 15 mins
 time: 1 hour
 serves: 4 ppl
 ingredients:

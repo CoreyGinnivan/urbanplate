@@ -7,7 +7,8 @@ image: recipes/coffee-lemonade.png
 accent: FFF5CF
 accent_alt: 
 intro: Bitter, sweet and sour all in one amazing refreshing drink. Perfect for that hit in summer, or literally anytime... this thing is bloody good.
-time: Literally seconds
+prep_time: Nothing
+time: Seconds
 serves: 1 Coffee addict
 ingredients:
     Cold Brew Coffee: 1 Cup

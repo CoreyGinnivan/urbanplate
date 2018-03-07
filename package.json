@@ -19,6 +19,7 @@
   "dependencies": {
     "clipboard": "^1.7.1",
     "jquery": "^3.3.1",
-    "modaal": "^0.3.1"
+    "modaal": "^0.3.1",
+    "primer-tooltips": "^1.5.2"
   }
 }

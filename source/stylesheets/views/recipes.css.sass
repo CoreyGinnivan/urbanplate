@@ -154,12 +154,12 @@
         display: flex
         align-items: center
 
-        .time, .servings
+        .prep_time, .time, .servings
             font-weight: 600
             display: flex
             flex-direction: column
             color: #000000
-            margin-bottom: 6px
+            margin-bottom: 14px
             text-align: right
 
             &:after
@@ -171,11 +171,17 @@
                 font-size: 11px
                 text-align: right
 
-        .time
+        .prep_time
             margin-left: auto
 
             &:after
-                content: "Time"
+                content: "Prep Time"
+
+        .time
+            margin-left: 20px
+
+            &:after
+                content: "Total Time"
 
         .servings
             margin-left: 20px

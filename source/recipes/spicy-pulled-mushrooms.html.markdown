@@ -8,6 +8,7 @@ image: recipes/pulled-mushrooms.png
 accent: C5C2E2
 accent_alt: 574db1
 intro: Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.
+prep_time: 2 mins
 time: 15 mins
 serves: 2 ppl
 ingredients:
