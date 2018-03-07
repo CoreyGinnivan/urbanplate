@@ -7,23 +7,27 @@ tags:
 image: recipes/mint-cauliflower-steak.png
 accent: C0D9D7
 accent_alt: 246f69
-intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas faucibus mollis interdum.
+intro: Perfect for a winter comfort meal with a twist. Cripsy seared cauliflower on the outside, but soft and tender on the inside, served with creamy mashed potato and salad.
 ingredients:
     Cauliflower: 1
-    Extra Virgin Olive Oil: 90ml
+    Extra Virgin Olive Oil: 2 Tbsp 
+    Honey: 1 Tbsp
     Garlic Cloves: 3
-    Fresh tomatoes, diced: 2
-    Cream: 150ml
-    Avocado: 1
-    Angel hair pasta: 450g
-    Fresh Basil: 3 Tbsp
+    Ground Cumin: 1 Tsp
+    Fresh Cracked Pepper: 1/2 Tsp
+    Mustard Seeds: 1 Tsp
+    Mint Leaves (no stalks): 40ish
+    Juice of Lemon: 1/2
+    Soy Sauce: 2 Tsp
+    Russet or Yukon Gold Potatoes: 1kg 
 steps:
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor.
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
-    - Let simmer for 20 minutes until sauce is reduced.
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
+    - Preheat oven to 200 degrees
+    - Mix together the ingredients (garlic, mint, honey, crushed mustard seeds, ground cumin, soy sauce, oil, pepper, lemon juice)
+    - Wash and trim the cauliflower leaves leaving the big stem intact. Cut in to 1-inch thick pieces - be careful! We want to keep the slices intact.
+    - Gently rub marinade all over the the steaks and place in the oven for 45 mins
+    - While the steaks are cooking, peel and chop the potatoes in to quarters, place in a saucepan of cold water and bring to the boil. Boil for 15 minutes or until soft.
+    - Drain water and leave for 5 mins to let the steam evaporate (this reduces the water). Then proceed to mash with either a masher or ricer. When mashed, add the butter and mash/combine again. We want this silky smooth.
+    - Remove steaks from oven after 45 mins, and get a frying pan heated on medium-high heat. When hot gently place the steaks in with 50g of butter, just to brown and finish them off (watch out for burning, they'll brown up pretty quick).
+    - Place a good scoop of mash on the plate, use the back of the spoon and push it across the plate, because we're fancy. Place a Cauliflower Steak on top, with fresh cracked pepper and a couple of mint leaves on top.
 
 ---

@@ -6,7 +6,7 @@ tags:
 image: recipes/coffee-lemonade.png
 accent: FFF5CF
 accent_alt: 
-intro: Bitter, sweet and sour all in one amazing refreshing drink. What more could you ask for really.
+intro: Bitter, sweet and sour all in one amazing refreshing drink. Perfect for that hit in summer, or literally anytime... this thing is bloody good.
 ingredients:
     Cold Brew Coffee: 1 Cup
     Yuzu Puree (or Lemon): 1 tspn

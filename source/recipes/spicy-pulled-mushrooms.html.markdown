@@ -7,16 +7,22 @@ tags:
 image: recipes/pulled-mushrooms.png
 accent: C5C2E2
 accent_alt: 574db1
-intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas faucibus mollis interdum.
+intro: Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.
 ingredients:
-    Mushrooms: 1
+    Enoki Mushrooms: 360g
+    Eggs: 4
+    Butter: 100g
+    Cumin Seeds (or ground): 1/2 Tsp
+    Ground Smoked Paprika: 1/2 Tsp
+    Garlic Powder: 1/2 Tsp
+    Black Pepper: 1/2 Tsp
+    Bagels, rolls or slices of nice bread: 2
 steps:
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor.
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
-    - Let simmer for 20 minutes until sauce is reduced.
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
-    - Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
+    - Put a pan on medium high heat. When hot, put Enoki mushrooms (roots cut off) in the pan and break apart (do not add oil - we're dry frying them). You might need to do this in half batches to make sure they cook off the water in them.
+    - When the mushrooms have lost a bit of their moisture (around 3 mins), add in the spices and cook for another 4 mins until golden brown.
+    - When crispy, set aside.
+    - Put the eggs and butter in to a saucepan and then put it on medium heat. When starting to heat up, start stirring and mixing everything together. Stir for 20 secs on heat and then 10 secs off heat. Keep doing this until almostttt cooked - they'll continue to cook through with the heat.
+    - Toast you bagel or roll slightly and place on the plate. Top with your creamy scrambled eggs and a good helping of enoki. Top with spring onions
+    - Top with any of your favourites - sliced chillies, Sriracha sauce, crumbed feta, etc
 
 ---
