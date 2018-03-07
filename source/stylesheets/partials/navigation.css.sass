@@ -172,7 +172,10 @@ nav
 
 .highlight-menu
     padding: 0
-    margin-bottom: 30px
+    margin: 0
+
+    &:before
+        margin: 0
 
     li
         list-style: none
@@ -181,38 +184,18 @@ nav
         a
             font-weight: 700
             color: #FFFFFF
-            letter-spacing: em(5.3, 40)
-            line-height: em(43, 40)
-            text-transform: uppercase
+            font-size: 22px
+            text-decoration: none
             border: 0
             display: block
             padding: 14px 0
 
-        .modaal-content-container &
-            @media (min-width: 600px)
-                font-size: em(40)
+            &:hover
+                text-decoration: underline
 
-        span
-            display: inline-block
-            position: relative
-            padding: 0 10px
+        .coming-soon
+            opacity: 0.5
 
-        &:after
-            position: absolute
-            display: block
-            content: ""
-            top: 0
-            bottom: 0
-            left: 0
-            right: 100%
-            background: #a9a9a9
-            transition: transform 0.2s ease
-            z-index: -1
-
-        &:hover, &:focus
-            // color:#fff
-
-            span
-                
-                &:after
-                    right: 0
+            &:hover
+                cursor: auto
+                text-decoration: none !important
