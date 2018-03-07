@@ -8,6 +8,8 @@ image: recipes/mint-cauliflower-steak.png
 accent: C0D9D7
 accent_alt: 246f69
 intro: Perfect for a winter comfort meal with a twist. Cripsy seared cauliflower on the outside, but soft and tender on the inside, served with creamy mashed potato and salad.
+time: 1 hour
+serves: 4 ppl
 ingredients:
     Cauliflower: 1
     Extra Virgin Olive Oil: 2 Tbsp 
@@ -21,8 +23,8 @@ ingredients:
     Soy Sauce: 2 Tsp
     Russet or Yukon Gold Potatoes: 1kg 
 steps:
-    - Preheat oven to 200 degrees
-    - Mix together the ingredients (garlic, mint, honey, crushed mustard seeds, ground cumin, soy sauce, oil, pepper, lemon juice)
+    - Preheat oven to 200 degrees.
+    - Mix together the ingredients (garlic, mint, honey, crushed mustard seeds, ground cumin, soy sauce, oil, pepper, lemon juice).
     - Wash and trim the cauliflower leaves leaving the big stem intact. Cut in to 1-inch thick pieces - be careful! We want to keep the slices intact.
     - Gently rub marinade all over the the steaks and place in the oven for 45 mins
     - While the steaks are cooking, peel and chop the potatoes in to quarters, place in a saucepan of cold water and bring to the boil. Boil for 15 minutes or until soft.

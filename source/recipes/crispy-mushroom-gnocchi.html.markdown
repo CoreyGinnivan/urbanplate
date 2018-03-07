@@ -8,6 +8,8 @@ image: recipes/crispy-gnocchi.png
 accent: f4d3c4
 accent_alt: d1754b
 intro: Soft (but cripsy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.
+time: 1 hour
+serves: 4 ppl
 ingredients:
     Large Royal Blue Potatoes: 1kg
     Plain Flour: 250g
@@ -22,7 +24,7 @@ ingredients:
     Fresh Bunch Chives: 1/2
     Freshly Ground White Pepper: Pinch
 steps:
-    - Bring a large saucepan of water to the boil. Quarter potatoes, put in to a steaming basket and place on top of the pot. Cover and allow to steam until potatoes are cooked through (about 20 mins)
+    - Bring a large saucepan of water to the boil. Quarter potatoes, put in to a steaming basket and place on top of the pot. Cover and allow to steam until potatoes are cooked through (about 20 mins).
     - Remote potatoes from heat and while they are still hot, place two pieces of potato in to a ricer and press directly on to a clean bench dusted with semolina. Discard the left over skin in the ricer and repeat with the remaining potatoes.
     - Sprinkle over two thirds of the flour and semolina mix over the riced potatoes, followed by the parmesa and egg yolk. Season well with salt and a good pinch of white pepper.
     - Use your hands to gently bring everything together adding the remaining flour and semolina as you go. Once all the flour has been added, briefly knead to create a soft dough.

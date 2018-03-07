@@ -8,6 +8,8 @@ image: recipes/pulled-mushrooms.png
 accent: C5C2E2
 accent_alt: 574db1
 intro: Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.
+time: 15 mins
+serves: 2 ppl
 ingredients:
     Enoki Mushrooms: 360g
     Eggs: 4
@@ -22,7 +24,7 @@ steps:
     - When the mushrooms have lost a bit of their moisture (around 3 mins), add in the spices and cook for another 4 mins until golden brown.
     - When crispy, set aside.
     - Put the eggs and butter in to a saucepan and then put it on medium heat. When starting to heat up, start stirring and mixing everything together. Stir for 20 secs on heat and then 10 secs off heat. Keep doing this until almostttt cooked - they'll continue to cook through with the heat.
-    - Toast you bagel or roll slightly and place on the plate. Top with your creamy scrambled eggs and a good helping of enoki. Top with spring onions
-    - Top with any of your favourites - sliced chillies, Sriracha sauce, crumbed feta, etc
+    - Toast you bagel or roll slightly and place on the plate. Top with your creamy scrambled eggs and a good helping of enoki. Top with spring onions.
+    - Top with any of your favourites - sliced chillies, Sriracha sauce, crumbed feta, etc.
 
 ---

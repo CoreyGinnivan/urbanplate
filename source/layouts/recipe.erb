@@ -18,7 +18,11 @@
                 <%= partial "partials/ingredients" %>
             </div>
             <div class="recipe__method">
-                <h2>Method</h2>
+                <div class="heading__wrapper">
+                    <h2>Method</h2>
+                    <span class="time"><%= current_page.data.time %></span>
+                    <span class="servings"><%= current_page.data.serves %></span>
+                </div>
                 <%= partial "partials/method" %>
             </div>
         </div>
