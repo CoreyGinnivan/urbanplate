@@ -87,7 +87,7 @@ activate :aria_current
 
 # Build-specific configuration
 configure :build do
-    activate :asset_hash
+    activate :asset_hash, :ignore => %r{^*-share.*}
     activate :minify_javascript
     activate :minify_css
     activate :gzip

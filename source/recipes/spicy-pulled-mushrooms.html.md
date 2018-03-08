@@ -3,7 +3,7 @@
 title: Spicy Pulled Mushrooms
 subtext: with Creamy Scrambled Eggs
 date: 2018-03-04 03:26 UTC
-tags: 
+tags:
 image: recipes/pulled-mushrooms.png
 accent: C5C2E2
 accent_alt: 574db1
@@ -44,5 +44,8 @@ ogp:
             type: image/png
             width: 1200
             height: 630
+    twitter:
+        label1: label 1 is here
+        data1: some sweet sweet data1
 
 ---
