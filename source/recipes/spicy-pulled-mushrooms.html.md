@@ -36,19 +36,13 @@ ogp:
             type: image/jpg
             width: 600
             height: 600
-    fb:
-        description: 'Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.'
-        image:
-            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
-            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
-            type: image/jpg
-            width: 600
-            height: 600
     twitter:
         label1: Total Time
         data1: 15 mins
         label2: Serves
         data2: 2 ppl
         card: summary_large_image
+        image:
+            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
 
 ---
