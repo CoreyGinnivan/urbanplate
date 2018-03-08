@@ -52,6 +52,19 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
+activate :ogp do |ogp|
+  #
+  # register namespace with default options
+  #
+  ogp.namespaces = {
+    fb: data.ogp.fb,
+    # from data/ogp/fb.yml
+    og: data.ogp.og
+    # from data/ogp/og.yml
+  }
+  ogp.blog = true
+end
+
 page "/feed.xml", layout: false
 
 # Reload the browser automatically whenever files change

@@ -28,4 +28,27 @@ steps:
     - Toast you bagel or roll slightly and place on the plate. Top with your creamy scrambled eggs and a good helping of enoki. Top with spring onions.
     - Top with any of your favourites - sliced chillies, Sriracha sauce, crumbed feta, etc.
 
+ogp:
+  og:
+    description: 'Spicy Pulled Mushrooms'
+    image:
+      '': recipes/pulled-mushrooms.png
+      secure_url: recipes/pulled-mushrooms.png
+      type: image/png
+      width: 400
+      height: 300
+    locale:
+      '': en_us
+      alternate:
+        - ja_jp
+        - zh_tw
+  fb:
+    description: 'Spicy Pulled Mushrooms'
+    image:
+      '': recipes/pulled-mushrooms.png
+      secure_url: recipes/pulled-mushrooms.png
+      type: image/png
+      width: 400
+      height: 300
+
 ---
