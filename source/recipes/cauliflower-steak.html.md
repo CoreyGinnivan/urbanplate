@@ -41,19 +41,13 @@ ogp:
             type: image/jpg
             width: 600
             height: 600
-    fb:
-        description: 'Perfect for a winter comfort meal with a twist. Cripsy seared cauliflower on the outside, but soft and tender on the inside, served with creamy mashed potato and salad.'
-        image:
-            '': https://www.urbanplate.co/images/recipes/mint-cauliflower-steak-share.jpg
-            secure_url: https://www.urbanplate.co/images/recipes/mint-cauliflower-steak-share.jpg
-            type: image/png
-            width: 600
-            height: 600
     twitter:
         label1: Total Time
         data1: 1 hour
         label2: Serves
         data2: 4 ppl
         card: summary_large_image
+        image:
+            '': https://www.urbanplate.co/images/recipes/mint-cauliflower-steak-share.jpg
 
 ---

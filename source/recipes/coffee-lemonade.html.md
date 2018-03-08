@@ -30,20 +30,14 @@ ogp:
             type: image/jpg
             width: 600
             height: 600
-    fb:
-        description: 'Bitter, sweet and sour all in one amazing refreshing drink. Perfect for that hit in summer, or literally anytime... this thing is bloody good.'
-        image:
-            '': https://www.urbanplate.co/images/recipes/coffee-lemonade-share.jpg
-            secure_url: https://www.urbanplate.co/images/recipes/coffee-lemonade-share.jpg
-            type: image/jpg
-            width: 600
-            height: 600
     twitter:
         label1: Total Time
         data1: Literally seconds
         label2: Serves
         data2: 1 Coffee addict
         card: summary_large_image
+        image:
+            '': https://www.urbanplate.co/images/recipes/coffee-lemonade-share.jpg
 
 ---
 
