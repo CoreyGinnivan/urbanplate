@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+    <%= partial "partials/head" %>
+
+    <body>
+        <%= partial "partials/navigation" %>
+        <div class="recipe__hero" style="background-color: #<%= current_page.data.accent %>">
+            <h1>
+                <%= current_page.data.title %>
+            </h1>
+            <%= image_tag "#{current_page.data.image}", :width => '660' %>
+        </div>
+        <h2 class="recipe__intro">
+            <%= current_page.data.intro %>
+        </h2>
+        <div class="recipe__content">
+            <div class="recipe__ingredients">
+                <h2>Ingredients</h2>
+                <%= partial "partials/ingredients" %>
+            </div>
+            <div class="recipe__method">
+                <div class="heading__wrapper">
+                    <h2>Method</h2>
+                    <span class="prep_time"><%= current_page.data.prep_time %></span>
+                    <span class="time"><%= current_page.data.time %></span>
+                    <span class="servings"><%= current_page.data.serves %></span>
+                </div>
+                <%= partial "partials/method" %>
+            </div>
+        </div>
+        <%= partial "partials/footer" %>
+    </body>
+</html>

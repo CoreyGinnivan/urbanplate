@@ -1,18 +1,48 @@
 ---
-title: Welcome to Urbanplate
+title: Urban Plate
+ogp:
+  og:
+    description: 'Modern, delicious and creative vego food.'
+    image:
+      '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
+      secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
+      type: image/png
+      width: 1200
+      height: 630
+  fb:
+    description: 'Modern, delicious and creative vego food'
+    image:
+      '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
+      secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
+      type: image/png
+      width: 1200
+      height: 630
 ---
 
-<div class="grid">
-  <div class="item item-latest">item-large</div>
-	<div class="item item-menu">item-menu</div>
-	<div class="item">item 1</div>
-	<div class="item">item 2</div>
-	<div class="item">item 3</div>
-	<div class="item">item 4</div>
-	<div class="item">item 5</div>
-	<div class="item">item 6</div>
-	<div class="item">item 7</div>
-	<div class="item">item 8</div>
-	<div class="item">item 9</div>
-	<div class="item">item 10</div>
+<div class="header">
+  <%= image_tag 'logo_urbanplate.svg', :width => '150', :class => 'logo' %>
+  <h2>
+    Modern, delicious and creative vego food.</br>This isn’t your usual vegetarian site.
+  </h2>
 </div>
+
+<div class="wrapper">
+  <% page_articles.each_with_index do |article, i| %>
+    <% accent = article.data.accent %>
+    <% accent_alt = article.data.accent_alt %>
+    <% link_to(article.url, :style => "background-color: ##{accent}", :class => "wrapper__recipe") do %>
+      <% if article.data.date > 7.day.ago %>
+        <span class="new" style="background-color: #<%= accent_alt %>">New</span>
+      <% end %>
+      <div class="text_wrapper">
+        <h3><%= article.title %></h3>
+        <% if article.data.subtext%>
+          <p style="color: #<%= accent_alt %>"><%= article.data.subtext %></p>
+        <% end %>
+      </div>
+      <%= image_tag "#{article.data.image}" %>
+    <% end %>
+  <% end %>
+</div>
+
+

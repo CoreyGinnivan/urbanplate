@@ -1,0 +1,25 @@
+<footer>    
+    <div class="copy__wrapper">
+        <% link_to '/', :class => 'logo' do %>
+            <%= image_tag 'logo_urbanplate--white.svg', :width => '100' %>
+        <% end %>
+        <p>
+            Urban Plate is a side project of <a href="https://twitter.com/CoreyGinnivan" target="_blank">Corey Ginnivan</a>. I'm currently looking for companies interested in taking this to the next level - feel free to get in touch.
+        </p>
+    </div>
+    <div class="links__wrapper">
+        <div class="footer__left">
+            <%= link_to "About Urban Plate", "/about/"  %>
+            <%= link_to "Terms & Legal", "/legal/"  %>
+            <%= mail_to "corey@ginnivan.net", "Contact Us", subject: "Hi Corey 👋" %>
+            <% link_to 'http://instagram.com/urbanplateco', target: "_blank", class: "footer__right" do %>
+                Instagram
+                <%= image_tag 'icon_instagram--white.svg', :width => '22' %>
+            <% end %>
+        </div>
+    </div>
+</footer>
+<%= javascript_include_tag "jquery.min" %>
+<%= javascript_include_tag "modaal.min" %>
+<%= javascript_include_tag "clipboard.min" %>
+<%= javascript_include_tag "site" %>

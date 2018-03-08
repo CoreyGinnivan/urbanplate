@@ -1,0 +1,22 @@
+<table id="ingredient__list">
+  <% current_page.data.ingredients.each do |amount, ingredient| %>
+    <tr>
+      <td>
+        <%= amount %>
+      </td>
+      <td>
+        <%= ingredient %>
+      </td>
+    </tr>
+  <% end %>
+</table>
+<button class="ingredients__copy clipboard" data-clipboard-action="copy" data-clipboard-target="#ingredient__list">
+  <%= image_tag 'icons/clipboard.svg' %>
+  Copy list to clipboard
+</button>
+
+<div class="instagram__info">
+  <p>
+    Follow <a href="https://www.instagram.com/urbanplateco/" target="_blank">@UrbanPlateCo</a> on Instagram to keep up to date and stalk more recipes like this one.
+  </p>
+</div>

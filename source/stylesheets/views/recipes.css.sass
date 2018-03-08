@@ -1,0 +1,235 @@
+.recipe__hero
+    width: calc(100vw - 80px)
+    max-width: 1360px
+    height: 480px
+    position: relative
+    margin: 0 auto
+
+    @media only screen and (max-width: 599px)
+        width: calc(100vw)
+        height: 360px
+
+    h1
+        text-transform: uppercase
+        position: absolute
+        bottom: -90px
+        left: 40px
+        max-width: 560px
+        color: #1E1E1E
+        text-align: left
+
+        @media only screen and (max-width: 1023px)
+            bottom: 0
+            top: 0
+            left: 0
+            right: 0
+            width: 100%
+            text-align: center
+            max-width: 100%
+            padding: 0 20px
+            height: 180px
+            display: flex
+            align-items: center
+
+    img
+        right: -40px
+        bottom: -110px
+        position: absolute
+
+        @media only screen and (max-width: 599px)
+            width: 400px !important
+
+        @media only screen and (max-width: 1023px)
+            width: 510px
+            transform: translate(50%, 0)
+            right: 50%
+            
+
+.recipe__intro
+    max-width: 1360px
+    margin: 0 auto
+    padding: 100px 80px 20px 80px
+    color: #66686E
+    font-weight: 400
+
+    @media only screen and (max-width: 1023px)
+        padding: 100px 40px 20px 40px
+
+    @media only screen and (max-width: 599px)
+        padding: 100px 20px 20px 20px
+
+.recipe__content
+    display: flex
+    flex-direction: row
+    width: calc(100vw - 80px)
+    max-width: 1360px
+    margin: 0 auto
+    padding: 40px 0 140px 0
+
+    @media only screen and (max-width: 1023px)
+        flex-direction: column
+        padding: 0 0 80px 0
+        width: calc(100vw - 80px)
+
+    @media only screen and (max-width: 599px)
+        width: calc(100vw - 40px)
+
+.recipe__ingredients
+    max-width: 440px
+    min-width: 420px
+    margin-right: 80px
+    margin-left: 40px
+
+    @media only screen and (max-width: 1023px)
+        margin-left: 0
+        margin-right: 0
+        max-width: 100%
+        min-width: auto
+
+    h2
+        margin-bottom: 40px
+
+        @media only screen and (max-width: 1023px)
+            margin-bottom: 10px
+
+    table
+        font-size: 16px
+        font-weight: 400
+        text-align: left
+        list-style: none
+        background-color: #F1F1F1
+        padding: 16px 16px 0 16px
+        width: 100%
+
+        tr
+            height: 40px
+            vertical-align: top
+
+        td:first-child
+            text-align: right
+            font-weight: 600
+            text-transform: capitalize
+            white-space: nowrap
+
+        td:last-child
+            padding-left: 20px
+
+    .ingredients__copy
+        font-weight: 600
+        font-size: 16px
+        color: #000000
+        line-height: 22px
+        background-color: #EBEBEB
+        padding: 12px
+        display: flex
+        flex-direction: row
+        align-items: center
+        justify-content: center
+        text-decoration: none
+        border: 0
+        width: 100%
+
+        &:hover
+            background-color: #D6D6D6
+            cursor: pointer
+
+        &:active
+            outline: none
+
+
+        img
+            margin-right: 10px
+
+
+
+.recipe__method
+    width: auto
+    padding-right: 40px
+
+    @media only screen and (max-width: 1023px)
+        padding-right: 0
+        margin-top: 20px
+
+    .heading__wrapper
+        display: flex
+        align-items: center
+
+        .prep_time, .time, .servings
+            font-weight: 600
+            display: flex
+            flex-direction: column
+            color: #000000
+            margin-bottom: 14px
+            text-align: right
+
+            &:after
+                font-weight: 800
+                border-top: 2px solid #000000
+                text-transform: uppercase
+                padding-top: 3px
+                margin-top: 3px
+                font-size: 11px
+                text-align: right
+
+        .prep_time
+            margin-left: auto
+
+            &:after
+                content: "Prep Time"
+
+        .time
+            margin-left: 20px
+
+            &:after
+                content: "Total Time"
+
+        .servings
+            margin-left: 20px
+
+            &:after
+                content: "Serves"
+
+
+        
+
+
+    h2
+        margin-bottom: 40px
+
+        @media only screen and (max-width: 1023px)
+            margin-bottom: 10px
+
+    ul
+        font-size: 16px
+        font-weight: 400
+        text-align: left
+        list-style: none
+        padding: 0
+
+        li
+            padding-bottom: 30px
+            display: flex
+            flex-direction: column
+            color: #66686E
+            line-height: 22px
+
+        .recipe__step
+            color: #000000
+            padding-bottom: 8px
+            font-weight: 600
+
+.instagram__info
+    margin-top: 30px
+    color: #1E1E1E
+    letter-spacing: 0.3px
+
+    @media only screen and (max-width: 1023px)
+        display: none
+
+    a
+        color: #1E1E1E
+        font-weight: 600
+        text-decoration: none
+
+        &:hover
+            text-decoration: underline
