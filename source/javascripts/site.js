@@ -15,7 +15,7 @@ function clearTooltip(e) {
 }
 
 function showTooltip(elem, msg) {
-    elem.setAttribute('class', 'ingredients__copy clipboard tooltipped tooltipped-s');
+    elem.setAttribute('class', 'ingredients__copy clipboard tooltipped tooltipped-n tooltipped-no-delay');
     elem.setAttribute('aria-label', msg);
 }
 
