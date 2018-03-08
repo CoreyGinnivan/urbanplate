@@ -13,8 +13,8 @@ time: 15 mins
 serves: 2 ppl
 ingredients:
     360g: Enoki Mushrooms
-    '4': Eggs:
-    100g: Butter:
+    '4': Eggs
+    100g: Butter
     1/2 Tsp: Cumin Seeds (or ground)
     1/2 Tsp: Ground Smoked Paprika
     1/2 Tsp: Garlic Powder
