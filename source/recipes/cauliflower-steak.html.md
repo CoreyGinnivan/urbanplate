@@ -34,7 +34,7 @@ steps:
     - Place a good scoop of mash on the plate, use the back of the spoon and push it across the plate, because we're fancy. Place a Cauliflower Steak on top, with fresh cracked pepper and a couple of mint leaves on top.
 ogp:
     og:
-        description: 'Mint and Honey Cauliflower Steak - Perfect for a winter comfort meal with a twist. Cripsy seared cauliflower on the outside, but soft and tender on the inside, served with creamy mashed potato and salad.'
+        description: 'Perfect for a winter comfort meal with a twist. Cripsy seared cauliflower on the outside, but soft and tender on the inside, served with creamy mashed potato and salad.'
         image:
             '': https://www.urbanplate.co/images/recipes/mint-cauliflower-steak-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/mint-cauliflower-steak-share.jpg
@@ -42,7 +42,7 @@ ogp:
             width: 600
             height: 600
     fb:
-        description: 'Mint and Honey Cauliflower Steak - Perfect for a winter comfort meal with a twist. Cripsy seared cauliflower on the outside, but soft and tender on the inside, served with creamy mashed potato and salad.'
+        description: 'Perfect for a winter comfort meal with a twist. Cripsy seared cauliflower on the outside, but soft and tender on the inside, served with creamy mashed potato and salad.'
         image:
             '': https://www.urbanplate.co/images/recipes/mint-cauliflower-steak-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/mint-cauliflower-steak-share.jpg

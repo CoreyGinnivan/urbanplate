@@ -40,7 +40,7 @@ steps:
     - Serve the gnocchi with a sprinkle of chives and extra parmesan.
 ogp:
     og:
-        description: 'Spicy Pulled Mushrooms - Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.'
+        description: 'Soft (but cripsy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.'
         image:
             '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
@@ -48,7 +48,7 @@ ogp:
             width: 600
             height: 600
     fb:
-        description: 'Spicy Pulled Mushrooms - Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.'
+        description: 'Soft (but cripsy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.'
         image:
             '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg

@@ -29,7 +29,7 @@ steps:
     - Top with any of your favourites - sliced chillies, Sriracha sauce, crumbed feta, etc.
 ogp:
     og:
-        description: 'Spicy Pulled Mushrooms - Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.'
+        description: 'Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.'
         image:
             '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
@@ -37,7 +37,7 @@ ogp:
             width: 600
             height: 600
     fb:
-        description: 'Spicy Pulled Mushrooms - Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.'
+        description: 'Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.'
         image:
             '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg

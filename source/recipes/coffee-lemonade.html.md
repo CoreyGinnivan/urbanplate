@@ -23,7 +23,7 @@ steps:
     - Top with Sparkling Water and throw in a slice of lemon (or sprig of mint) if you're fancy (you are).
 ogp:
     og:
-        description: 'Coffee Lemonade - Bitter, sweet and sour all in one amazing refreshing drink. Perfect for that hit in summer, or literally anytime... this thing is bloody good.'
+        description: 'Bitter, sweet and sour all in one amazing refreshing drink. Perfect for that hit in summer, or literally anytime... this thing is bloody good.'
         image:
             '': https://www.urbanplate.co/images/recipes/coffee-lemonade-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/coffee-lemonade-share.jpg
@@ -31,7 +31,7 @@ ogp:
             width: 600
             height: 600
     fb:
-        description: 'Coffee Lemonade - Bitter, sweet and sour all in one amazing refreshing drink. Perfect for that hit in summer, or literally anytime... this thing is bloody good.'
+        description: 'Bitter, sweet and sour all in one amazing refreshing drink. Perfect for that hit in summer, or literally anytime... this thing is bloody good.'
         image:
             '': https://www.urbanplate.co/images/recipes/coffee-lemonade-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/coffee-lemonade-share.jpg
