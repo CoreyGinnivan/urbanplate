@@ -12,17 +12,17 @@ prep_time: 15 mins
 time: 1 hour
 serves: 4 ppl
 ingredients:
-    Cauliflower: 1
-    Extra Virgin Olive Oil: 2 Tbsp 
-    Honey: 1 Tbsp
-    Garlic Cloves: 3
-    Ground Cumin: 1 Tsp
-    Fresh Cracked Pepper: 1/2 Tsp
-    Mustard Seeds: 1 Tsp
-    Mint Leaves (no stalks): 40ish
-    Juice of Lemon: 1/2
-    Soy Sauce: 2 Tsp
-    Russet or Yukon Gold Potatoes: 1kg 
+    '1': Cauliflower
+    2 Tbsp: Extra Virgin Olive Oil
+    1 Tbsp: Honey
+    '3': Garlic Cloves
+    1 Tsp: Ground Cumin
+    1/2 Tsp: Fresh Cracked Pepper
+    1 Tsp: Mustard Seeds
+    40ish: Mint Leaves (no stalks)
+    1/2: Juice of Lemon
+    2 Tsp: Soy Sauce
+    1kg: Russet or Yukon Gold Potatoes
 steps:
     - Preheat oven to 200 degrees.
     - Mix together the ingredients (garlic, mint, honey, crushed mustard seeds, ground cumin, soy sauce, oil, pepper, lemon juice).

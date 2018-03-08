@@ -11,11 +11,11 @@ prep_time: Nothing
 time: Seconds
 serves: 1 Coffee addict
 ingredients:
-    Cold Brew Coffee: 1 Cup
-    Yuzu Puree (or Lemon): 1 tspn
-    Lemon Juice: 1 tspn
-    Sparkling Water: 1/2 Cup
-    Ice: Handful
+    1 Cup: Cold Brew Coffee
+    1 tspn: Yuzu Puree (or Lemon)
+    1 tspn: Lemon Juice
+    1/2 Cup: Sparkling Water
+    Handful: Ice
 steps:
     - Start by pouring the Yuzu Puree and Lemon Juice in to the bottom of the cup and muddle together.
     - Fill your glass with ice.
