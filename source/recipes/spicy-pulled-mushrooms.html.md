@@ -31,21 +31,24 @@ ogp:
     og:
         description: 'Spicy Pulled Mushrooms - Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.'
         image:
-            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.png
-            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.png
-            type: image/png
-            width: 1200
-            height: 630
+            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            type: image/jpg
+            width: 600
+            height: 600
     fb:
         description: 'Spicy Pulled Mushrooms - Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.'
         image:
-            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.png
-            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.png
-            type: image/png
-            width: 1200
-            height: 630
+            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            type: image/jpg
+            width: 600
+            height: 600
     twitter:
-        label1: label 1 is here
-        data1: some sweet sweet data1
+        label1: Total Time
+        data1: 15 mins
+        label2: Serves
+        data2: 2 ppl
+        card: summary_large_image
 
 ---

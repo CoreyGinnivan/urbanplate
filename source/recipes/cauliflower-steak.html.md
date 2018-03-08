@@ -32,5 +32,28 @@ steps:
     - Drain water and leave for 5 mins to let the steam evaporate (this reduces the water). Then proceed to mash with either a masher or ricer. When mashed, add the butter and mash/combine again. We want this silky smooth.
     - Remove steaks from oven after 45 mins, and get a frying pan heated on medium-high heat. When hot gently place the steaks in with 50g of butter, just to brown and finish them off (watch out for burning, they'll brown up pretty quick).
     - Place a good scoop of mash on the plate, use the back of the spoon and push it across the plate, because we're fancy. Place a Cauliflower Steak on top, with fresh cracked pepper and a couple of mint leaves on top.
+ogp:
+    og:
+        description: 'Mint and Honey Cauliflower Steak - Perfect for a winter comfort meal with a twist. Cripsy seared cauliflower on the outside, but soft and tender on the inside, served with creamy mashed potato and salad.'
+        image:
+            '': https://www.urbanplate.co/images/recipes/mint-cauliflower-steak-share.jpg
+            secure_url: https://www.urbanplate.co/images/recipes/mint-cauliflower-steak-share.jpg
+            type: image/jpg
+            width: 600
+            height: 600
+    fb:
+        description: 'Mint and Honey Cauliflower Steak - Perfect for a winter comfort meal with a twist. Cripsy seared cauliflower on the outside, but soft and tender on the inside, served with creamy mashed potato and salad.'
+        image:
+            '': https://www.urbanplate.co/images/recipes/mint-cauliflower-steak-share.jpg
+            secure_url: https://www.urbanplate.co/images/recipes/mint-cauliflower-steak-share.jpg
+            type: image/png
+            width: 600
+            height: 600
+    twitter:
+        label1: Total Time
+        data1: 1 hour
+        label2: Serves
+        data2: 4 ppl
+        card: summary_large_image
 
 ---
