@@ -59,8 +59,10 @@ activate :ogp do |ogp|
   ogp.namespaces = {
     fb: data.ogp.fb,
     # from data/ogp/fb.yml
-    og: data.ogp.og
+    og: data.ogp.og,
     # from data/ogp/og.yml
+    twitter: data.ogp.twitter
+    # from data/ogp/twitter.yml
   }
   ogp.base_url = 'http://mysite.tld/'
   ogp.blog = true
