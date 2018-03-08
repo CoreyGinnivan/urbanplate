@@ -78,6 +78,8 @@ activate :autoprefixer do |prefix|
 end
 
 activate :directory_indexes
+page "/404.html", :directory_index => false
+
 activate :aria_current
 
 # Methods defined in the helpers block are available in templates
