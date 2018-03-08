@@ -52,20 +52,20 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
-activate :ogp do |ogp|
-  #
-  # register namespace with default options
-  #
-  ogp.namespaces = {
-    fb: data.ogp.fb,
-    # from data/ogp/fb.yml
-    og: data.ogp.og,
-    twitter: data.ogp.twitter
-    # from data/ogp/og.yml
-  }
-  ogp.base_url = 'https://www.urbanplate.co/'
-  ogp.blog = true
-end
+# activate :ogp do |ogp|
+#   #
+#   # register namespace with default options
+#   #
+#   ogp.namespaces = {
+#     fb: data.ogp.fb,
+#     # from data/ogp/fb.yml
+#     og: data.ogp.og,
+#     twitter: data.ogp.twitter
+#     # from data/ogp/og.yml
+#   }
+#   ogp.base_url = 'https://www.urbanplate.co/'
+#   ogp.blog = true
+# end
 
 page "/feed.xml", layout: false
 
