@@ -52,6 +52,20 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
+activate :ogp do |ogp|
+  #
+  # register namespace with default options
+  #
+  ogp.namespaces = {
+    og: data.ogp.og,
+    # from data/ogp/og.yml
+    twitter: data.ogp.twitter
+    # from data/ogp/twitter.yml
+  }
+  ogp.base_url = 'https://urbanplate.co'
+  ogp.blog = true
+end
+
 page "/feed.xml", layout: false
 
 # Reload the browser automatically whenever files change
@@ -64,6 +78,8 @@ activate :autoprefixer do |prefix|
 end
 
 activate :directory_indexes
+page "/404.html", :directory_index => false
+
 activate :aria_current
 
 # Methods defined in the helpers block are available in templates
@@ -73,7 +89,7 @@ activate :aria_current
 
 # Build-specific configuration
 configure :build do
-    activate :asset_hash
+    activate :asset_hash, :ignore => %r{^*-share.*}
     activate :minify_javascript
     activate :minify_css
     activate :gzip

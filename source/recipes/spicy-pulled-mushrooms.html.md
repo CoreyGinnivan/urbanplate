@@ -3,7 +3,7 @@
 title: Spicy Pulled Mushrooms
 subtext: with Creamy Scrambled Eggs
 date: 2018-03-04 03:26 UTC
-tags: 
+tags:
 image: recipes/pulled-mushrooms.png
 accent: C5C2E2
 accent_alt: 574db1
@@ -29,20 +29,20 @@ steps:
     - Top with any of your favourites - sliced chillies, Sriracha sauce, crumbed feta, etc.
 ogp:
     og:
-        description: 'Spicy Pulled Mushrooms'
+        description: 'Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.'
         image:
-            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
-            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
-            type: image/png
-            width: 1200
-            height: 630
-    fb:
-        description: 'Spicy Pulled Mushrooms'
+            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            type: image/jpg
+            width: 600
+            height: 600
+    twitter:
+        label1: Total Time
+        data1: 15 mins
+        label2: Serves
+        data2: 2 ppl
+        card: summary_large_image
         image:
-            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
-            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
-            type: image/png
-            width: 1200
-            height: 630
+            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
 
 ---
