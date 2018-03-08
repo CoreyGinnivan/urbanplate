@@ -1,8 +1,9 @@
+title: Urban Plate
 image:
-  '': http://mydomain.tld/path/to/fbimage.png
-  secure_url: https://secure.mydomain.tld/path/to/fbimage.png
+  '': https://www.urbanplate.co/images/logo_urbanplate.png
+  secure_url: https://www.urbanplate.co/images/logo_urbanplate.png
   type: image/png
-  width: 400
-  height: 300
+  width: 360
+  height: 360
 locale:
   '': en_us
