@@ -38,5 +38,28 @@ steps:
     - Return the pan to medium heat. Add butter and cook until the milk solides just begin to brown, then add the thyme and rosemary with a good pinch of salt/pepper. Cook until the butter is very a dark brown (burnt) and the herbs are a deep green and crisp (but not burnt).
     - Moving quickly, deglaze the pan with the lemon juice and immediately cover with a lid as shit gon' get real as this will start splashing everywhere. As soon as the pan settles, quickly add the cooked gnocchi and mushrooms. Gently toss to evenly coat.
     - Serve the gnocchi with a sprinkle of chives and extra parmesan.
+ogp:
+    og:
+        description: 'Soft (but cripsy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.'
+        image:
+            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            type: image/jpg
+            width: 600
+            height: 600
+    fb:
+        description: 'Soft (but cripsy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.'
+        image:
+            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            type: image/jpg
+            width: 600
+            height: 600
+    twitter:
+        label1: Total Time
+        data1: 15 mins
+        label2: Serves
+        data2: 2 ppl
+        card: summary_large_image
 
 ---

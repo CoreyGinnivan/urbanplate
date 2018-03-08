@@ -62,7 +62,7 @@ activate :ogp do |ogp|
     og: data.ogp.og
     # from data/ogp/og.yml
   }
-  ogp.base_url = 'http://mysite.tld/'
+  ogp.base_url = 'https://urbanplate.co'
   ogp.blog = true
 end
 
@@ -78,6 +78,8 @@ activate :autoprefixer do |prefix|
 end
 
 activate :directory_indexes
+page "/404.html", :directory_index => false
+
 activate :aria_current
 
 # Methods defined in the helpers block are available in templates
@@ -87,7 +89,7 @@ activate :aria_current
 
 # Build-specific configuration
 configure :build do
-    activate :asset_hash
+    activate :asset_hash, :ignore => %r{^*-share.*}
     activate :minify_javascript
     activate :minify_css
     activate :gzip
