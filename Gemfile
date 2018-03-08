@@ -18,9 +18,12 @@ gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 gem "builder", "~> 3.0"
 
 # My extra gems
-gem 'middleman-livereload', '~> 3.4.3'
-gem 'middleman-autoprefixer', '~> 2.7'
+gem 'middleman-livereload'
+gem 'middleman-autoprefixer'
 gem 'sass-rails'
 gem 'middleman-aria_current'
 gem 'clipboard-rails'
 gem 'jquery-turbolinks'
+
+# OGP
+gem 'middleman-ogp'

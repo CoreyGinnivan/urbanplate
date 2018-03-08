@@ -27,28 +27,22 @@ steps:
     - Put the eggs and butter in to a saucepan and then put it on medium heat. When starting to heat up, start stirring and mixing everything together. Stir for 20 secs on heat and then 10 secs off heat. Keep doing this until almostttt cooked - they'll continue to cook through with the heat.
     - Toast you bagel or roll slightly and place on the plate. Top with your creamy scrambled eggs and a good helping of enoki. Top with spring onions.
     - Top with any of your favourites - sliced chillies, Sriracha sauce, crumbed feta, etc.
-
 ogp:
-  og:
-    description: 'Spicy Pulled Mushrooms'
-    image:
-      '': recipes/pulled-mushrooms.png
-      secure_url: recipes/pulled-mushrooms.png
-      type: image/png
-      width: 400
-      height: 300
-    locale:
-      '': en_us
-      alternate:
-        - ja_jp
-        - zh_tw
-  fb:
-    description: 'Spicy Pulled Mushrooms'
-    image:
-      '': recipes/pulled-mushrooms.png
-      secure_url: recipes/pulled-mushrooms.png
-      type: image/png
-      width: 400
-      height: 300
+    og:
+        description: 'Spicy Pulled Mushrooms'
+        image:
+            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
+            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
+            type: image/png
+            width: 1200
+            height: 630
+    fb:
+        description: 'Spicy Pulled Mushrooms'
+        image:
+            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
+            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-e3e3192d.png
+            type: image/png
+            width: 1200
+            height: 630
 
 ---

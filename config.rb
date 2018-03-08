@@ -59,9 +59,11 @@ activate :ogp do |ogp|
   ogp.namespaces = {
     fb: data.ogp.fb,
     # from data/ogp/fb.yml
-    og: data.ogp.og
+    og: data.ogp.og,
+    twitter: data.ogp.twitter
     # from data/ogp/og.yml
   }
+  ogp.base_url = 'https://www.urbanplate.co/'
   ogp.blog = true
 end
 
