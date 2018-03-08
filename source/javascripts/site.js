@@ -24,7 +24,6 @@ $(document).ready(function(){
 
     clipboard.on('success', function(e) {
         e.clearSelection();
-        console.info('Action:', e.action);
         showTooltip(e.trigger, 'Copied!');
     });
 

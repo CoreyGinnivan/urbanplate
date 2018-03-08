@@ -21,6 +21,7 @@ gem "builder", "~> 3.0"
 gem 'middleman-livereload'
 gem 'middleman-autoprefixer'
 gem 'sass-rails'
+gem "middleman-sprockets"
 gem 'middleman-aria_current'
 gem 'clipboard-rails'
 gem 'jquery-turbolinks'

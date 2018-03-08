@@ -73,6 +73,13 @@ configure :development do
   activate :livereload
 end
 
+activate :sprockets
+
+after_configuration do
+  sprockets.append_path "source/stylesheets/"
+  sprockets.append_path "node_modules"
+end
+
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
