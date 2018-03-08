@@ -64,7 +64,7 @@ activate :ogp do |ogp|
     twitter: data.ogp.twitter
     # from data/ogp/twitter.yml
   }
-  ogp.base_url = 'http://mysite.tld/'
+  ogp.base_url = 'https://urbanplate.co'
   ogp.blog = true
 end
 
