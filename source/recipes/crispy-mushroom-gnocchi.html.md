@@ -49,9 +49,9 @@ ogp:
             height: 600
     twitter:
         label1: Total Time
-        data1: 15 mins
+        data1: 1 hour
         label2: Serves
-        data2: 2 ppl
+        data2: 4 ppl
         card: summary_large_image
         image:
             '': https://www.urbanplate.co/images/recipes/crispy-gnocchi-share.jpg
