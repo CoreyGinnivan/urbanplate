@@ -12,14 +12,14 @@ prep_time: 2 mins
 time: 15 mins
 serves: 2 ppl
 ingredients:
-    360g: Enoki Mushrooms
-    '4': Eggs
-    100g: Butter
-    1/2 Tsp: Cumin Seeds (or ground)
-    1/2 Tsp: Ground Smoked Paprika
-    1/2 Tsp: Garlic Powder
-    1/2 Tsp: Black Pepper
-    '2': Bagels, rolls or slices of nice bread
+    Enoki Mushrooms: 360g
+    Eggs: '4'
+    Butter: 100g
+    Cumin Seeds (or ground): 1/2 Tsp
+    Ground Smoked Paprika: 1/2 Tsp
+    Garlic Powder: 1/2 Tsp
+    Black Pepper: 1/2 Tsp
+    Bagels, rolls or slices of nice bread: '2'
 steps:
     - Put a pan on medium high heat. When hot, put Enoki mushrooms (roots cut off) in the pan and break apart (do not add oil - we're dry frying them). You might need to do this in half batches to make sure they cook off the water in them.
     - When the mushrooms have lost a bit of their moisture (around 3 mins), add in the spices and cook for another 4 mins until golden brown.

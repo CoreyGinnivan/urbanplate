@@ -12,18 +12,18 @@ prep_time: 15 mins
 time: 1 hour
 serves: 4 ppl
 ingredients:
-    1kg: Large Royal Blue Potatoes
-    250g: Plain Flour
-    50g: Semolina Flour (and a bit more for dusting)
-    40g: Grated Parmesan
-    '1': Egg Yolk
-    320g: Mixed Mushrooms
-    125g: Unsalted Butter
-    10g: Fresh Thyme 
-    20cm: Fresh Romsemary Sprig
-    1/2: Lemon Juice
-    1/2: Fresh Bunch Chives
-    Pinch: Freshly Ground White Pepper
+    Large Royal Blue Potatoes: 1kg
+    Plain Flour: 250g
+    Semolina Flour (and a bit more for dusting): 50g
+    Grated Parmesan: 40g
+    Egg Yolk: '1'
+    Mixed Mushrooms: 320g
+    Unsalted Butter: 125g
+    Fresh Thyme : 10g
+    Fresh Romsemary Sprig: 20cm
+    Lemon Juice: 1/2
+    Fresh Bunch Chives: 1/2
+    Freshly Ground White Pepper: Pinch
 steps:
     - Bring a large saucepan of water to the boil. Quarter potatoes, put in to a steaming basket and place on top of the pot. Cover and allow to steam until potatoes are cooked through (about 20 mins).
     - Remote potatoes from heat and while they are still hot, place two pieces of potato in to a ricer and press directly on to a clean bench dusted with semolina. Discard the left over skin in the ricer and repeat with the remaining potatoes.
