@@ -42,8 +42,8 @@ ogp:
     og:
         description: 'Soft (but cripsy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.'
         image:
-            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
-            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            '': https://www.urbanplate.co/images/recipes/crispy-gnocchi-share.jpg
+            secure_url: https://www.urbanplate.co/images/recipes/crispy-gnocchi-share.jpg
             type: image/jpg
             width: 600
             height: 600
@@ -54,5 +54,5 @@ ogp:
         data2: 2 ppl
         card: summary_large_image
         image:
-            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            '': https://www.urbanplate.co/images/recipes/crispy-gnocchi-share.jpg
 ---
