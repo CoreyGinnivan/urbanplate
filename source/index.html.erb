@@ -10,12 +10,12 @@
     <% accent = article.data.accent %>
     <% accent_alt = article.data.accent_alt %>
     <% link_to(article.url, :style => "background-color: ##{accent}", :class => "wrapper__recipe") do %>
-      <% if article.data.date > 7.day.ago %>
+      <% if article.data.date > 4.day.ago %>
         <span class="new" style="background-color: #<%= accent_alt %>">New</span>
       <% end %>
       <div class="text_wrapper">
         <h3><%= article.title %></h3>
-        <% if article.data.subtext%>
+        <% if article.data.subtext %>
           <p style="color: #<%= accent_alt %>"><%= article.data.subtext %></p>
         <% end %>
       </div>
