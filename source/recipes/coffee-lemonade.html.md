@@ -28,8 +28,8 @@ ogp:
             '': https://www.urbanplate.co/images/recipes/coffee-lemonade-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/coffee-lemonade-share.jpg
             type: image/jpg
-            width: 600
-            height: 600
+            width: 1200
+            height: 630
     twitter:
         label1: Total Time
         data1: Literally seconds
