@@ -23,7 +23,7 @@ steps:
     - Spoon some feta whip on to your toast, top with a of your smashed avo. Add a sprinkle of your assorted seeds and a dash of Sriracha sauce.
 ogp:
     og:
-        description: 'The perfect way to trap a millenial. '
+        description: 'The perfect way to trap a millennial.'
         image:
             '': https://www.urbanplate.co/images/recipes/smashed-avo-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/smashed-avo-share.jpg
