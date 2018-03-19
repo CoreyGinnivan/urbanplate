@@ -26,7 +26,7 @@ ingredients:
     Freshly Ground White Pepper: Pinch
 steps:
     - Bring a large saucepan of water to the boil. Quarter potatoes, put in to a steaming basket and place on top of the pot. Cover and allow to steam until potatoes are cooked through (about 20 mins).
-    - Remote potatoes from heat and while they are still hot, place two pieces of potato in to a ricer and press directly on to a clean bench dusted with semolina. Discard the left over skin in the ricer and repeat with the remaining potatoes.
+    - Remove potatoes from heat and while they are still hot, place two pieces of potato in to a ricer and press directly on to a clean bench dusted with semolina. Discard the left over skin in the ricer and repeat with the remaining potatoes.
     - Sprinkle over two thirds of the flour and semolina mix over the riced potatoes, followed by the parmesa and egg yolk. Season well with salt and a good pinch of white pepper.
     - Use your hands to gently bring everything together adding the remaining flour and semolina as you go. Once all the flour has been added, briefly knead to create a soft dough.
     - Divide in to 6 pieces. Work with one piece at a time, leaving the remainder covered with a tea towel. Roll out each piece in to a log about 1.5cm in diameter, lightly dust the log with semolina and repeat.
