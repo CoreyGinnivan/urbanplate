@@ -7,7 +7,7 @@ tags:
 image: recipes/crispy-gnocchi.png
 accent: f4d3c4
 accent_alt: d1754b
-intro: Soft (but cripsy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.
+intro: Soft (but crispy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.
 prep_time: 15 mins
 time: 1 hour
 serves: 4 ppl
@@ -26,8 +26,8 @@ ingredients:
     Freshly Ground White Pepper: Pinch
 steps:
     - Bring a large saucepan of water to the boil. Quarter potatoes, put in to a steaming basket and place on top of the pot. Cover and allow to steam until potatoes are cooked through (about 20 mins).
-    - Remote potatoes from heat and while they are still hot, place two pieces of potato in to a ricer and press directly on to a clean bench dusted with semolina. Discard the left over skin in the ricer and repeat with the remaining potatoes.
-    - Sprinkle over two thirds of the flour and semolina mix over the riced potatoes, followed by the parmesa and egg yolk. Season well with salt and a good pinch of white pepper.
+    - Remove potatoes from heat and while they are still hot, place two pieces of potato in to a ricer and press directly on to a clean bench dusted with semolina. Discard the left over skin in the ricer and repeat with the remaining potatoes.
+    - Sprinkle over two thirds of the flour and semolina mix over the riced potatoes, followed by the parmesan and egg yolk. Season well with salt and a good pinch of white pepper.
     - Use your hands to gently bring everything together adding the remaining flour and semolina as you go. Once all the flour has been added, briefly knead to create a soft dough.
     - Divide in to 6 pieces. Work with one piece at a time, leaving the remainder covered with a tea towel. Roll out each piece in to a log about 1.5cm in diameter, lightly dust the log with semolina and repeat.
     - Cut each log in to 3cm long pillows (try not to squash). Place the gnocchi in a single layer on a semolina dusted tray, roll to coat in the semolina and set aside until ready to cook.
@@ -42,17 +42,17 @@ ogp:
     og:
         description: 'Soft (but cripsy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.'
         image:
-            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
-            secure_url: https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            '': https://www.urbanplate.co/images/recipes/crispy-gnocchi-share.jpg
+            secure_url: https://www.urbanplate.co/images/recipes/crispy-gnocchi-share.jpg
             type: image/jpg
             width: 1200
             height: 630
     twitter:
         label1: Total Time
-        data1: 15 mins
+        data1: 1 hour
         label2: Serves
-        data2: 2 ppl
+        data2: 4 ppl
         card: summary_large_image
         image:
-            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            '': https://www.urbanplate.co/images/recipes/crispy-gnocchi-share.jpg
 ---
