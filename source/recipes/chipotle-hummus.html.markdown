@@ -42,8 +42,8 @@ ogp:
     og:
         description: "Hummus with a Mexican twist - it's really just an excuse to eat hummus as a meal. Adding Pomegranate seeds adds a refreshing burst to cut through the spice and mellow out with the coriander"
         image:
-            '': https://www.urbanplate.co/images/recipes/chipotle-hummus.jpg
-            secure_url: https://www.urbanplate.co/images/recipes/chipotle-hummus.jpg
+            '': https://www.urbanplate.co/images/recipes/chipotle-hummus-share.jpg
+            secure_url: https://www.urbanplate.co/images/recipes/chipotle-hummus-share.jpg
             type: image/jpg
             width: 1200
             height: 630
@@ -54,6 +54,6 @@ ogp:
         data2: 3 ppl
         card: summary_large_image
         image:
-            '': https://www.urbanplate.co/images/recipes/pchipotle-hummus.jpg
+            '': https://www.urbanplate.co/images/recipes/chipotle-hummus-share.jpg
 
 ---
