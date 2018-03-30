@@ -40,7 +40,7 @@ steps:
     - When your buns are done, brush the warm glaze over the buns.
 ogp:
     og:
-        description: 'It's that time of year again. To bring in easter with a bang with classic hot cross buns.'
+        description: "It's that time of year again. To bring in easter with a bang with classic hot cross buns."
         image:
             '': https://www.urbanplate.co/images/recipes/hot-cross-buns-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/hot-cross-buns-share.jpg
