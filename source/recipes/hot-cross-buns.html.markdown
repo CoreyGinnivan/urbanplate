@@ -40,7 +40,7 @@ steps:
     - When your buns are done, brush the warm glaze over the buns.
 ogp:
     og:
-        description: 'Soft (but cripsy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.'
+        description: 'It's that time of year again. To bring in easter with a bang with classic hot cross buns.'
         image:
             '': https://www.urbanplate.co/images/recipes/hot-cross-buns-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/hot-cross-buns-share.jpg
