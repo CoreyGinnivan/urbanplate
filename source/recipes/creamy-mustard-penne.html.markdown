@@ -7,7 +7,7 @@ tags:
 image: recipes/mustard-penne.png
 accent: ffeaa9
 accent_alt: cca323
-intro: Simple, creamy and delicious pasta that is perfectly balanced with sweetness of the tomatoes and the spiciness of the seeded mustard that adds amazing colour and texture.
+intro: Simple, creamy and delicious pasta that is perfectly balanced with the sweetness of the tomatoes and the spiciness of the seeded mustard that also adds amazing colour and texture.
 prep_time: 15 mins
 time: 40 mins
 serves: 4
@@ -30,7 +30,7 @@ steps:
     - Take your sauce off the heat and pour it over the pasta. Gently toss together by flipping the bowl, or stirring. Add the chopped basil and shaved parmesan to finish.
 ogp:
     og:
-        description: "Simple, creamy and delicious pasta that is perfectly balanced with sweetness of the tomatoes and the spiciness of the seeded mustard that adds amazing colour and texture."
+        description: "Simple, creamy and delicious pasta that is perfectly balanced with the sweetness of the tomatoes and the spiciness of the seeded mustard that also adds amazing colour and texture."
         image:
             '': https://www.urbanplate.co/images/recipes/mustard-penne-share.jpg
             secure_url: https://www.urbanplate.co/images/recipes/mustard-penne-share.jpg
