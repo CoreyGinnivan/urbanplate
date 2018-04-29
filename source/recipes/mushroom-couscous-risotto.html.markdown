@@ -43,6 +43,6 @@ ogp:
         data2: 4 ppl
         card: summary_large_image
         image:
-            '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
+            '': https://www.urbanplate.co/images/recipes/mushroom-couscous-share.jpg
 
 ---
