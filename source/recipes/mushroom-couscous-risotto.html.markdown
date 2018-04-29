@@ -40,7 +40,7 @@ ogp:
         label1: Total Time
         data1: 15 mins
         label2: Serves
-        data2: 2 ppl
+        data2: 4 ppl
         card: summary_large_image
         image:
             '': https://www.urbanplate.co/images/recipes/pulled-mushrooms-share.jpg
