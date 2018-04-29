@@ -6,7 +6,7 @@ tags:
 image: recipes/mushroom-couscous.png
 accent: b7cfc7
 accent_alt: 74b59f
-intro: Time poor, flavour rich. A super simple and easy risotto substitute that delivers a smooth and umami punch, packed full of mushrooms, cheese and creamy cous cous.
+intro: Time poor, flavour rich. A super simple and easy risotto substitute that delivers a smooth and umami punch, packed full of mushrooms, cheese and creamy couscous.
 prep_time: 3 mins
 time: 15 mins
 serves: 4
