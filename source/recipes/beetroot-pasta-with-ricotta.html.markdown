@@ -5,7 +5,7 @@ subtext: with Ricotta
 date: 2018-05-29 11:22:54 UTC
 tags:
 image: recipes/beetroot-pasta.png
-accent: ffcbcb
+accent: FF9999
 accent_alt: d7596e
 intro: "The look isn't the only impressive thing about this dish. Buttery beetroots that gains texture from toasted poppy seeds combine for a perfect feel good meal, topped with fresh ricotta to tie it all together"
 prep_time: 15 mins

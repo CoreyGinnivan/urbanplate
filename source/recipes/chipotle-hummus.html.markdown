@@ -4,7 +4,7 @@ title: Chipotle Hummus and Spiced Cauliflower
 date: 2018-03-24 06:46:21 UTC
 tags:
 image: recipes/chipotle-hummus.png
-accent: ddc2c3
+accent: FF999C
 accent_alt: c9676b
 intro: Hummus with a Mexican twist - it's really just an excuse to eat hummus as a meal. Adding Pomegranate seeds adds a refreshing burst to cut through the spice and mellow out with the coriander.
 prep_time: 10 mins
@@ -37,7 +37,7 @@ steps:
     - Crush up the spices in a mortar and pestle and mix in the smoked paprika. Set aside.
     - Cut up your cauliflower in to small florets. Add 2 tablespoons of olive oil to a frypan on medium-high heat. Wait until oil is hot and add your cauliflower in batches. Turn occasionally and cook for about 5 - 10 minutes until golden brown.
     - When your cauliflower is cooked, move to a bowl and toss to coat with the spice mixture.
-    - Plate up by adding a couple of spoonfulls of hummus in to a bowl, add a good helping of cauliflower and top with cut up coriander, slightly crushed corn chips and a couple of pomegranate seeds.
+    - Plate up by adding a couple of spoons of hummus in to a bowl, add a good helping of cauliflower and top with cut up coriander, slightly crushed corn chips and a couple of pomegranate seeds.
 ogp:
     og:
         description: "Hummus with a Mexican twist - it's really just an excuse to eat hummus as a meal. Adding Pomegranate seeds adds a refreshing burst to cut through the spice and mellow out with the coriander"
