@@ -18,7 +18,7 @@ ingredients:
     Onions, roughly chopped: '2'
     Cloves Garlic, roughly chopped: '4'
     Capsicum, roughly chopped: '1'
-    Red Chili, deseeded and roughly chopped: '1'
+    Red Chili, deseeded and chopped: '1'
     Parsley, roughly chopped: 'Handful'
     Plain Flour (for frying): ''
     Vegetable Oil (for frying): ''
@@ -43,8 +43,8 @@ ingredients:
     Juice of Half a Lemon: ''
     Greek Yoghurt: ''
 steps:
-    - First we're going to get the sweet potatoes going. Add some olive oil to a pan on medium-high heat and add the sweet potatoes. Cook for about 15 minutes or until soft.
-    - Drain and wash your lentils, then add them to a food processor along with the walnuts. Pulse until almost mince-like.
+    - First we're going to get the sweet potatoes going. Add some olive oil to a pan on medium-high heat and add the sweet potatoes. Stir occasionally and cook for about 15 minutes or until soft.
+    - Drain and wash your lentils, then add them to a food processor along with the walnuts. Pulse until mince-like.
     - Add oil to another pan on medium-high heat and then add your lentil mixture. Cook for about 10 minutes stirring occasionally. When done, set aside in a big mixing bowl.
     - When your sweet potatoes are cooked and softened, add in to the food processor and blitz until smooth. Add this to your lentil mixture.
     - Finally the last part of the Koftas! Add your onions, garlic cloves, 1 capsicum, chili and parsley in to to food processor and pulse until small chunks, almost paste-like. Add this to your mixing bowl and combine with the lentil/sweet potatoes, set aside.
