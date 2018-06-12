@@ -4,7 +4,7 @@ title: Peanut Butter Energy Balls
 date: 2018-04-15 11:22:05 UTC
 tags:
 image: recipes/energy-balls.png
-accent: d4cffe
+accent: BCB5FF
 accent_alt: 564bae
 intro: Perfect combo of protein, fats and carbs that gives you that hit of energy when you need it.
 prep_time: Nothing
