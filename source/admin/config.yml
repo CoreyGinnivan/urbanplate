@@ -15,13 +15,13 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
+      - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "recipe"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtext", name: "subtext", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Publish Date", name: "date", widget: "hidden"}
       - {label: "Accent Colour", name: "accent", widget: "string"}
       - {label: "Accent Alt Colour", name: "accent_alt", widget: "string"}
       - {label: "Intro Copy", name: "intro", widget: "string"}
       - {label: "Prep Time", name: "prep_time", widget: "string"}
-      - {label: "Serves", name: "serves", widget: "number"}
+      - {label: "Serves", name: "serves", widget: "string"}
