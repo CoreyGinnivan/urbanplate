@@ -39,7 +39,7 @@ activate :blog do |blog|
   # blog.year_link = "{year}.html"
   # blog.month_link = "{year}/{month}.html"
   # blog.day_link = "{year}/{month}/{day}.html"
-  # blog.default_extension = ".markdown"
+  blog.default_extension = ".md"
   blog.new_article_template = File.expand_path('recipe_meta.erb', File.dirname(__FILE__))
 
   blog.tag_template = "tag.html"
