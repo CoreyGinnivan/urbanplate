@@ -6,6 +6,8 @@ backend:
 media_folder: "source/images/recipes" # Folder where user uploaded files should go
 public_folder: "images/recipes" # Folder where user uploaded files should go
 
+publish_mode: editorial_workflow
+
 collections: # A list of collections the CMS should be able to edit
   - name: "recipes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Recipe" # Used in the UI, ie.: "New Post"
@@ -23,14 +25,3 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Copy", name: "intro", widget: "string"}
       - {label: "Prep Time", name: "prep_time", widget: "string"}
       - {label: "Serves", name: "serves", widget: "number"}
-      - label: Ingredients
-        name: ingredients
-        widget: list
-        fields:
-          - {label: Ingredient Name, name: name, widget: string, default: "Apple"}
-          - {label: Quantity, name: quantity, widget: string, default: ""}
-      - label: Method
-        name: steps
-        widget: list
-        fields:
-          - {label: Steps, name: step, widget: string, default: "Step 1"}
