@@ -4,7 +4,7 @@ title: Creamy Mustard Penne
 subtext: with Sundried Tomatoes
 date: 2018-04-07 04:15:50 UTC
 tags:
-image: recipes/mustard-penne.png
+image: mustard-penne.png
 accent: ffeaa9
 accent_alt: cca323
 intro: Simple, creamy and delicious pasta that is perfectly balanced with the sweetness of the tomatoes and the spiciness of the seeded mustard that also adds amazing colour and texture.

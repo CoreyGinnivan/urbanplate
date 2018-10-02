@@ -4,7 +4,7 @@ title: Spicy Pulled Mushrooms
 subtext: with Creamy Scrambled Eggs
 date: 2018-03-04 03:26 UTC
 tags:
-image: recipes/pulled-mushrooms.png
+image: pulled-mushrooms.png
 accent: C5C2E2
 accent_alt: 574db1
 intro: Crispy and smokey mushrooms are the perfect fit with creamy and buttery scrambled eggs.

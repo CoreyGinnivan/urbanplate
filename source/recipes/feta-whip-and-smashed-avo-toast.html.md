@@ -3,7 +3,7 @@
 title: Feta Whip and Smashed Avo Toast
 date: 2018-03-10 09:45:52 UTC
 tags:
-image: recipes/smashed-avo.png
+image: smashed-avo.png
 accent: C1D989
 accent_alt: a6bc72
 intro: The perfect way to trap a millenial. 

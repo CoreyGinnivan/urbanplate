@@ -3,7 +3,7 @@
 title: Hot Cross Buns
 date: 2018-03-30 08:02:54 UTC
 tags:
-image: recipes/hot-cross-buns.png
+image: hot-cross-buns.png
 accent: 75C1D9
 accent_alt: 68a5cc
 intro: It's that time of year again. To bring in easter with a bang with classic hot cross buns.

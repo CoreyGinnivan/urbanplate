@@ -3,7 +3,7 @@
 title: Coffee Lemonade
 date: 2018-02-01 08:26 UTC
 tags:
-image: recipes/coffee-lemonade.png
+image: coffee-lemonade.png
 accent: FFF5CF
 accent_alt: 
 intro: Bitter, sweet and sour all in one amazing refreshing drink. Perfect for that hit in summer, or literally anytime... this thing is bloody good.

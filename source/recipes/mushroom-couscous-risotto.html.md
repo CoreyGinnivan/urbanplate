@@ -3,7 +3,7 @@
 title: Mushroom Couscous Risotto
 date: 2018-04-29 12:48:53 UTC
 tags:
-image: recipes/mushroom-couscous.png
+image: mushroom-couscous.png
 accent: 8CCFB9
 accent_alt: 74b59f
 intro: Time poor, flavour rich. A super simple and easy risotto substitute that delivers a smooth and umami punch, packed full of mushrooms, cheese and creamy couscous.

@@ -4,7 +4,7 @@ title: Crispy Mushroom Gnocchi
 subtext: with Burnt Butter Sauce
 date: 2018-02-05 00:31:46 UTC
 tags:
-image: recipes/crispy-gnocchi.png
+image: crispy-gnocchi.png
 accent: FFC4A8
 accent_alt: d1754b
 intro: Soft (but crispy) pillowy goodness that melts in your mouth and pops with fresh herbs, with a smooth burnt butter sauce to round things up. Mushrooms provide a perfect balance and that good hit of umami that fills you up.

@@ -3,7 +3,7 @@
 title: Chipotle Hummus and Spiced Cauliflower
 date: 2018-03-24 06:46:21 UTC
 tags:
-image: recipes/chipotle-hummus.png
+image: chipotle-hummus.png
 accent: FF999C
 accent_alt: c9676b
 intro: Hummus with a Mexican twist - it's really just an excuse to eat hummus as a meal. Adding Pomegranate seeds adds a refreshing burst to cut through the spice and mellow out with the coriander.

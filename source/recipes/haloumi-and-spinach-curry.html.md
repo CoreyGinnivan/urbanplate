@@ -4,7 +4,7 @@ title: Haloumi and Spinach Curry
 subtext: with Buttered Rice
 date: 2018-05-12 02:03:37 UTC
 tags:
-image: recipes/haloumi-curry.png
+image: haloumi-curry.png
 accent: ffbf97
 accent_alt: c9682c
 intro: This is by no means a standard curry, but it is delicious. Similar to a butter chicken, but with cheese and spinach combining to be the hero.

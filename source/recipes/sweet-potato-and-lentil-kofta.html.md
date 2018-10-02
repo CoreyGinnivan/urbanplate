@@ -3,7 +3,7 @@
 title: Sweet Potato and Lentil Kofta
 date: 2018-06-11 10:06:02 UTC
 tags:
-image: recipes/sweet-potato-kofta.png
+image: sweet-potato-kofta.png
 accent: 98cdff
 accent_alt: 0083ff
 intro: A different take on a classic middle eastern dish. Soft, delicate vege Koftas packed full of protein and healthy carbs in a rich tomato sauce that packs a punch.
