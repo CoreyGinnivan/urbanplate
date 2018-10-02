@@ -118,4 +118,3 @@ def darken_color(hex_color, amount=0.4)
   rgb[2] = (rgb[2].to_i * amount).round
   "#%02x%02x%02x" % rgb
 end
-
