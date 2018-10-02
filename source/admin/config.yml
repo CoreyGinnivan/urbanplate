@@ -9,7 +9,7 @@ public_folder: "images/recipes" # Folder where user uploaded files should go
 collections: # A list of collections the CMS should be able to edit
   - name: "recipes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Recipe" # Used in the UI, ie.: "New Post"
-    folder: "source/recipe" # The path to the folder where the documents are stored
+    folder: "source/recipes" # The path to the folder where the documents are stored
     slug: "{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
