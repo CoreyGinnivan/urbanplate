@@ -3,14 +3,33 @@ backend:
   repo: CoreyGinnivan/urbanplate # Path to your GitHub repository
   branch: master # Branch to update (master by default)
 
+media_folder: "source/images/recipes" # Folder where user uploaded files should go
 public_folder: "images/recipes" # Folder where user uploaded files should go
-media_folder: "images/recipes" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
   - name: "recipes" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "New Recipe" # Used in the UI, ie.: "New Post"
-    folder: "source/recipes" # The path to the folder where the documents are stored
+    label: "Recipe" # Used in the UI, ie.: "New Post"
+    folder: "_source/recipes" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    format: frontmatter
     fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: "hidden", default: "recipe"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtext", name: "subtext", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Accent Colour", name: "accent", widget: "string"}
+      - {label: "Accent Alt Colour", name: "accent_alt", widget: "string"}
+      - {label: "Intro Copy", name: "intro", widget: "string"}
+      - {label: "Prep Time", name: "prep_time", widget: "string"}
+      - {label: "Serves", name: "serves", widget: "number"}
+      - label: Ingredients
+        name: ingredients
+        widget: object
+        fields:
+          - {label: Ingredient Name, name: name, widget: string, default: "Apple"}
+          - {label: Quantity, name: quantity, widget: string, default: ""}
+      - label: Method
+        name: steps
+        widget: object
+        fields:
+          - {label: Steps, name: step, widget: string, default: "Step 1"}
