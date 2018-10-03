@@ -24,7 +24,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Prep Time", name: "prep_time", widget: "string"}
       - {label: "Serves", name: "serves", widget: "string"}
       - label: Steps
+        name: steps
         label_singular: "Step"
-        widget: object
+        widget: list
         fields:
           - {label: "Step", name: "step", widget: "string"}
