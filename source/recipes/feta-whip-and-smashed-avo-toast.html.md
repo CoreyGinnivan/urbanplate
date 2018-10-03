@@ -23,10 +23,10 @@ ingredients:
   - ingredient: Loaf Sourdough Bread
     quantity: 1
 steps:
-- Cut your avocados in half and take out the seed, scoop out the center in to a bowl and break down with a fork. Add a pinch of salt and freshly cracked pepper and mix.
-- In a separate bowl, mix together your cream cheese and feta cheese together until it forms a smooth paste (you could use a food processor or blender to go even smoother).
-- Cut your sourdough bread in to 1 inch thick slices, drizzle with some olive oil and gently pan fry (or grill) on medium-high heat.
-- Spoon some feta whip on to your toast, top with a of your smashed avo. Add a sprinkle of your assorted seeds and a dash of Sriracha sauce.
+  - step: Cut your avocados in half and take out the seed, scoop out the center in to a bowl and break down with a fork. Add a pinch of salt and freshly cracked pepper and mix.
+  - step: In a separate bowl, mix together your cream cheese and feta cheese together until it forms a smooth paste (you could use a food processor or blender to go even smoother).
+  - step: Cut your sourdough bread in to 1 inch thick slices, drizzle with some olive oil and gently pan fry (or grill) on medium-high heat.
+  - step: Spoon some feta whip on to your toast, top with a of your smashed avo. Add a sprinkle of your assorted seeds and a dash of Sriracha sauce.
 ogp:
     og:
         description: 'The perfect way to trap a millennial.'

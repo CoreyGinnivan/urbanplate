@@ -20,11 +20,11 @@ ingredients:
   - ingredient: Ice
     quantity: Handful
 steps:
-- Start by filling your glass with ice.
-- Pour in your cold brew coffee (or any filtered black coffee).
-- Add your Sparkling/Tonic Water
-- Top it up with your Bitter Lemon Cordial and stir to combine.
-- Throw in a slice of lemon (or sprig of mint) if you're fancy (you are).
+  - step: Start by filling your glass with ice.
+  - step: Pour in your cold brew coffee (or any filtered black coffee).
+  - step: Add your Sparkling/Tonic Water
+  - step: Top it up with your Bitter Lemon Cordial and stir to combine.
+  - step: Throw in a slice of lemon (or sprig of mint) if you're fancy (you are).
 ogp:
     og:
         description: 'Bitter, sweet and sour all in one amazing refreshing drink. Perfect for that hit in summer, or literally anytime... this thing is bloody good.'

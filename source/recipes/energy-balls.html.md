@@ -26,11 +26,11 @@ ingredients:
   - ingredient: Dessicated Coconut
     quantity: 
 steps:
-- Combine all ingredients (except for coconut) in to a bowl and combine.
-- Take some mixture and form in to a golf ball sized ball
-- Roll in dessicated coconut on a plate
-- Continue until all balls are made
-- Put in your face and feel the energy 💪
+  - step: Combine all ingredients (except for coconut) in to a bowl and combine.
+  - step: Take some mixture and form in to a golf ball sized ball
+  - step: Roll in dessicated coconut on a plate
+  - step: Continue until all balls are made
+  - step: Put in your face and feel the energy 💪
 ogp:
     og:
         description: "Perfect combo of protein, fats and carbs that gives you that hit of energy when you need it."

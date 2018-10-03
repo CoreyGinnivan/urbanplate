@@ -31,13 +31,13 @@ ingredients:
   - ingredient: Black Pepper
     quantity: 
 steps:
-- Preheat your oven to 200C. Clean (no need to peel), trim, dice and spread out the beetroot on a roasting tray, drizzle with about a tbsp of olive oil, a pinch of salt and freshly cracked pepper. Bake for about 60 minutes or until tender and dehydrated.
-- When cooked, puree the beetroot with 1 cup of water, with a hand blender or food processor until smooth
-- Start cooking your spaghetti according to the packet instructions in heavily salted water. (it should take about 10 minutes). Cook it to slightly before al dente, as we'll be adding it to a pan to finish off.
-- While your spaghetti is cooking, put a pan on to medium heat, add your butter and poppy seeds. Cook until the butter is browning and becoming burnt (but not burnt).
-- Add your beetroot puree to the butter and combine.
-- When you pasta is cooked, drain and then add in to the beetroot sauce
-- Serve with chopped up spring onions and a spoon of ricotta cheese on top
+  - step: Preheat your oven to 200C. Clean (no need to peel), trim, dice and spread out the beetroot on a roasting tray, drizzle with about a tbsp of olive oil, a pinch of salt and freshly cracked pepper. Bake for about 60 minutes or until tender and dehydrated.
+  - step: When cooked, puree the beetroot with 1 cup of water, with a hand blender or food processor until smooth
+  - step: Start cooking your spaghetti according to the packet instructions in heavily salted water. (it should take about 10 minutes). Cook it to slightly before al dente, as we'll be adding it to a pan to finish off.
+  - step: While your spaghetti is cooking, put a pan on to medium heat, add your butter and poppy seeds. Cook until the butter is browning and becoming burnt (but not burnt).
+  - step: Add your beetroot puree to the butter and combine.
+  - step: When you pasta is cooked, drain and then add in to the beetroot sauce
+  - step: Serve with chopped up spring onions and a spoon of ricotta cheese on top
 ogp:
     og:
         description: "The look isn't the only impressive thing about this dish. Buttery beetroots that gains texture from toasted poppy seeds combine for a perfect feel good meal, topped with fresh ricotta to tie it all together"

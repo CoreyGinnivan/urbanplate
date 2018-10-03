@@ -33,11 +33,11 @@ ingredients:
   - ingredient: Salt/Freshly Ground Pepper
     quantity: 
 steps:
-- Start by getting your pasta on (follow the directions on the packet). While your pasta is cooking, get your prep done by dicing your onion, and slicing up sun dried tomatoes into 1cm strips.
-- In a saucepan, boil white wine and diced onion over high heat until liquid evaporates, should take about 6-8 minutes. Reduce heat to medium-high.
-- Add whipping cream and simmer for 3 minutes (whilst stirring), then add mustard, tomatoes, and spinach. Crack some pepper in to the mix and continue to gently simmer so the flavours get to know each other.
-- Remove pasta from the heat (when done) and drain it into a large bowl. Pour a tablespoon of oil over the pasta and toss it through (to reduce the pasta sticking together, and season your pasta with salt/pepper.
-- Take your sauce off the heat and pour it over the pasta. Gently toss together by flipping the bowl, or stirring. Add the chopped basil and shaved parmesan to finish.
+  - step: Start by getting your pasta on (follow the directions on the packet). While your pasta is cooking, get your prep done by dicing your onion, and slicing up sun dried tomatoes into 1cm strips.
+  - step: In a saucepan, boil white wine and diced onion over high heat until liquid evaporates, should take about 6-8 minutes. Reduce heat to medium-high.
+  - step: Add whipping cream and simmer for 3 minutes (whilst stirring), then add mustard, tomatoes, and spinach. Crack some pepper in to the mix and continue to gently simmer so the flavours get to know each other.
+  - step: Remove pasta from the heat (when done) and drain it into a large bowl. Pour a tablespoon of oil over the pasta and toss it through (to reduce the pasta sticking together, and season your pasta with salt/pepper.
+  - step: Take your sauce off the heat and pour it over the pasta. Gently toss together by flipping the bowl, or stirring. Add the chopped basil and shaved parmesan to finish.
 ogp:
     og:
         description: "Simple, creamy and delicious pasta that is perfectly balanced with the sweetness of the tomatoes and the spiciness of the seeded mustard that also adds amazing colour and texture."

@@ -47,13 +47,13 @@ ingredients:
   - ingredient: Rice (for serving)
     quantity: 
 steps:
-- Cut your Haloumi in to 2mm slices. Heat up 50g butter in a large frypan on medium heat, and cook the Haloumi until browned on both sides. It should only take about 30 secs - 1 min on each side.
-- Using the same large frypan turn to medium-high heat, add the rest of your butter, and then your onion, garlic and ginger. Fry up until soft (about 5 mins). Add all the spices and curry paste, stir for about a minute until fragrant.
-- Add in the peanut butter and combine, then add in your Coconut Milk and Passata, then stir
-- Bring to the boil and then simmer and start reducing for about 20 minutes.
-- After it's reduced, add in the the yoghurt at this point and combine to make it extra creamy. Add in your Haloumi and Frozen Spinach, cook for another 5 mins until spinach is wilted, and you're all done!
-- Cook enough rice based on the instructions, and when fully cooked stir in a knob of butter.
-- Serve curry with rice, top with roughly chopped coriander and swirl of watered down yoghurt to look swish.
+  - step: Cut your Haloumi in to 2mm slices. Heat up 50g butter in a large frypan on medium heat, and cook the Haloumi until browned on both sides. It should only take about 30 secs - 1 min on each side.
+  - step: Using the same large frypan turn to medium-high heat, add the rest of your butter, and then your onion, garlic and ginger. Fry up until soft (about 5 mins). Add all the spices and curry paste, stir for about a minute until fragrant.
+  - step: Add in the peanut butter and combine, then add in your Coconut Milk and Passata, then stir
+  - step: Bring to the boil and then simmer and start reducing for about 20 minutes.
+  - step: After it's reduced, add in the the yoghurt at this point and combine to make it extra creamy. Add in your Haloumi and Frozen Spinach, cook for another 5 mins until spinach is wilted, and you're all done!
+  - step: Cook enough rice based on the instructions, and when fully cooked stir in a knob of butter.
+  - step: Serve curry with rice, top with roughly chopped coriander and swirl of watered down yoghurt to look swish.
 ogp:
     og:
         description: "This is by no means a standard curry, but it is delicious. Similar to a butter chicken, but with cheese and spinach combining to be the hero."

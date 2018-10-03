@@ -50,13 +50,13 @@ ingredients:
   - ingredient: Ground Cinnamon
     quantity: 1/2 Tsp
 steps:
-- Combine all the bun ingredients except fruit together. When combined in to a dough, add the fruit and incorporate. Leave for 30 mins to an hour for dough to rise.
-- Preheat oven to 220°C
-- Line a baking tray with baking paper. Divide your dough in to 16 portions (about the size of a fist) and mould in to balls. Place each ball 1cm each other in a grid pattern.
-- Make your piping mix by combine the ingredients and place in to your piping bag. Pipe lines over the buns to create your crosses.
-- Bake your buns for 25 mins or until cooked through and slightly golden.
-- While your buns are baking, make your glaze by combining the ingredients in a saucepan over medium-high heat and cook for about 10 mins or until it's a thick (but still slightly watery) glaze.
-- When your buns are done, brush the warm glaze over the buns.
+  - step: Combine all the bun ingredients except fruit together. When combined in to a dough, add the fruit and incorporate. Leave for 30 mins to an hour for dough to rise.
+  - step: Preheat oven to 220°C
+  - step: Line a baking tray with baking paper. Divide your dough in to 16 portions (about the size of a fist) and mould in to balls. Place each ball 1cm each other in a grid pattern.
+  - step: Make your piping mix by combine the ingredients and place in to your piping bag. Pipe lines over the buns to create your crosses.
+  - step: Bake your buns for 25 mins or until cooked through and slightly golden.
+  - step: While your buns are baking, make your glaze by combining the ingredients in a saucepan over medium-high heat and cook for about 10 mins or until it's a thick (but still slightly watery) glaze.
+  - step: When your buns are done, brush the warm glaze over the buns.
 ogp:
     og:
         description: "It's that time of year again. To bring in easter with a bang with classic hot cross buns."
