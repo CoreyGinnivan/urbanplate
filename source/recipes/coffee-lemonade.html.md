@@ -11,16 +11,20 @@ prep_time: Nothing
 time: Seconds
 serves: 1 Coffee addict
 ingredients:
-    Cold Brew Coffee: 1 Cup
-    Yuzu Puree (or Lemon): 1 tspn
-    Lemon Juice: 1 tspn
-    Sparkling Water: 1/2 Cup
-    Ice: Handful
+  - ingredient: Cold Brew Coffee
+    quantity: 1 Cup
+  - ingredient: Bitter Lemon Cordial
+    quantity: 1 Tbsp
+  - ingredient: Sparkling or Tonic Water
+    quantity: 1/2 Cup
+  - ingredient: Ice
+    quantity: Handful
 steps:
-    - Start by pouring the Yuzu Puree and Lemon Juice in to the bottom of the cup and muddle together.
-    - Fill your glass with ice.
-    - Pour in your cold brew coffee (or any filtered black coffee).
-    - Top with Sparkling Water and throw in a slice of lemon (or sprig of mint) if you're fancy (you are).
+- Start by filling your glass with ice.
+- Pour in your cold brew coffee (or any filtered black coffee).
+- Add your Sparkling/Tonic Water
+- Top it up with your Bitter Lemon Cordial and stir to combine.
+- Throw in a slice of lemon (or sprig of mint) if you're fancy (you are).
 ogp:
     og:
         description: 'Bitter, sweet and sour all in one amazing refreshing drink. Perfect for that hit in summer, or literally anytime... this thing is bloody good.'

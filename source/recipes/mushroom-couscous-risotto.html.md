@@ -11,22 +11,31 @@ prep_time: 3 mins
 time: 15 mins
 serves: 4
 ingredients:
-    Cloves Garlic, minced: 2
-    Brown Onion, diced: 1
-    Couscous: "2 Cups"
-    Vegetable Stock: "2 Cups"
-    Butter: 50g
-    Thyme: 6 Sprigs
-    Mushrroms (Button or Field): 200g
-    Walnuts, crushed (optional): Handful
-    Parmesan Cheese, grated: ""
+  - ingredient: Cloves Garlic, minced
+    quantity: 2
+  - ingredient: Brown Onion, diced
+    quantity: 1
+  - ingredient: Couscous
+    quantity: 2 Cups
+  - ingredient: Vegetable Stock
+    quantity: 2 Cups
+  - ingredient: Butter
+    quantity: 50g
+  - ingredient: Thyme
+    quantity: 6 Sprigs
+  - ingredient: Mushrroms (Button or Field)
+    quantity: 200g
+  - ingredient: Walnuts, crushed (optional)
+    quantity: Handful
+  - ingredient: Parmesan Cheese, grated
+    quantity: 
 steps:
-    - Add some oil to a frypan on medium heat, when hot add garlic and onion. Cook for 5 mins or until onions are translucent.
-    - Chop up your mushrooms in about 1 inch pieces, when onion and garlic is cooked, add in the mushrooms. Cook everything for about 10 mins or until garlic is cooked down and browned.
-    - While mushrooms are cooking, remove thyme leaves from their stem and add to mushrooms.
-    - When mushrooms are cooked down and brown, add your couscous and turn heat down to low. Stir to cover the mixture with the couscous. Add your vegetable stock. Stir mixture to incorporate and leave for 5 mins until the couscous has absorbed the liquid
-    - When couscous is absorbed, turn off the heat and add your knob of butter. Stir through until melted and incorporated, and serve!
-    - Serve into bowls, add shaved or grated parmesan, some crushed gently pan toasted walnuts on top, extra thyme and freshly cracked pepper. Voila!
+- Add some oil to a frypan on medium heat, when hot add garlic and onion. Cook for 5 mins or until onions are translucent.
+- Chop up your mushrooms in about 1 inch pieces, when onion and garlic is cooked, add in the mushrooms. Cook everything for about 10 mins or until garlic is cooked down and browned.
+- While mushrooms are cooking, remove thyme leaves from their stem and add to mushrooms.
+- When mushrooms are cooked down and brown, add your couscous and turn heat down to low. Stir to cover the mixture with the couscous. Add your vegetable stock. Stir mixture to incorporate and leave for 5 mins until the couscous has absorbed the liquid
+- When couscous is absorbed, turn off the heat and add your knob of butter. Stir through until melted and incorporated, and serve!
+- Serve into bowls, add shaved or grated parmesan, some crushed gently pan toasted walnuts on top, extra thyme and freshly cracked pepper. Voila!
 ogp:
     og:
         description: "Time poor, flavour rich. A super simple and easy risotto substitute that delivers a smooth and umami punch, packed full of mushrooms, cheese and creamy cous cous."

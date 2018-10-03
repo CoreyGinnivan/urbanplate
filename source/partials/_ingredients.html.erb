@@ -1,11 +1,11 @@
 <table id="ingredient__list">
-  <% current_page.data.ingredients.each do |ingredient, amount| %>
+  <% current_page.data.ingredients.each do |ingredient| %>
     <tr>
       <td>
-        <%= amount %>
+        <%= ingredient.quantity %>
       </td>
       <td>
-        <%= ingredient %>
+        <%= ingredient.ingredient %>
       </td>
     </tr>
   <% end %>

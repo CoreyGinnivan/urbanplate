@@ -12,22 +12,32 @@ prep_time: 15 mins
 time: 40 mins
 serves: 4
 ingredients:
-    Spinach: '2 Cups'
-    White Wine: '1 Cup'
-    Whipping Cream: '2 Cups'
-    Onion: 'Half'
-    Penne Pasta: '500g'
-    Wholegrain Seeded Mustard: '4 Tbsp'
-    Sundried Tomatoes: '1/2 Cup'
-    Freshly Grated Parmesan: ''
-    Basil for garnishing: ''
-    Salt/Freshly Ground Pepper: ''
+  - ingredient: Spinach
+    quantity: 2 Cups
+  - ingredient: White Wine
+    quantity: 1 Cup
+  - ingredient: Whipping Cream
+    quantity: 2 Cups
+  - ingredient: Onion
+    quantity: 1/2
+  - ingredient: Penne Pasta
+    quantity: 500g
+  - ingredient: Wholegrain Seeded Mustard
+    quantity: 24 Tbsp
+  - ingredient: Sundried Tomatoes
+    quantity: 4 Tbsp
+  - ingredient: Freshly Grated Parmesan
+    quantity: 
+  - ingredient: Basil for garnishing
+    quantity: 
+  - ingredient: Salt/Freshly Ground Pepper
+    quantity: 
 steps:
-    - Start by getting your pasta on (follow the directions on the packet). While your pasta is cooking, get your prep done by dicing your onion, and slicing up sun dried tomatoes into 1cm strips.
-    - In a saucepan, boil white wine and diced onion over high heat until liquid evaporates, should take about 6-8 minutes. Reduce heat to medium-high.
-    - Add whipping cream and simmer for 3 minutes (whilst stirring), then add mustard, tomatoes, and spinach. Crack some pepper in to the mix and continue to gently simmer so the flavours get to know each other.
-    - Remove pasta from the heat (when done) and drain it into a large bowl. Pour a tablespoon of oil over the pasta and toss it through (to reduce the pasta sticking together, and season your pasta with salt/pepper.
-    - Take your sauce off the heat and pour it over the pasta. Gently toss together by flipping the bowl, or stirring. Add the chopped basil and shaved parmesan to finish.
+- Start by getting your pasta on (follow the directions on the packet). While your pasta is cooking, get your prep done by dicing your onion, and slicing up sun dried tomatoes into 1cm strips.
+- In a saucepan, boil white wine and diced onion over high heat until liquid evaporates, should take about 6-8 minutes. Reduce heat to medium-high.
+- Add whipping cream and simmer for 3 minutes (whilst stirring), then add mustard, tomatoes, and spinach. Crack some pepper in to the mix and continue to gently simmer so the flavours get to know each other.
+- Remove pasta from the heat (when done) and drain it into a large bowl. Pour a tablespoon of oil over the pasta and toss it through (to reduce the pasta sticking together, and season your pasta with salt/pepper.
+- Take your sauce off the heat and pour it over the pasta. Gently toss together by flipping the bowl, or stirring. Add the chopped basil and shaved parmesan to finish.
 ogp:
     og:
         description: "Simple, creamy and delicious pasta that is perfectly balanced with the sweetness of the tomatoes and the spiciness of the seeded mustard that also adds amazing colour and texture."

@@ -10,17 +10,23 @@ intro: The perfect way to trap a millenial.
 time: 15 mins
 serves: 5
 ingredients:
-    Avocados: 2
-    Feta: 100g
-    Cream Cheese: 100g
-    Assorted seeds (Chia, Pepitas): Handful
-    Sriracha Sauce: A Dash
-    Loaf Sourdough Bread: 1
+  - ingredient: Avocados
+    quantity: 2
+  - ingredient: Feta
+    quantity: 100g
+  - ingredient: Cream Cheese
+    quantity: 100g
+  - ingredient: Assorted seeds (Chia, Pepitas)
+    quantity: Handful
+  - ingredient: Sriracha Sauce
+    quantity: A Dash
+  - ingredient: Loaf Sourdough Bread
+    quantity: 1
 steps:
-    - Cut your avocados in half and take out the seed, scoop out the center in to a bowl and break down with a fork. Add a pinch of salt and freshly cracked pepper and mix.
-    - In a separate bowl, mix together your cream cheese and feta cheese together until it forms a smooth paste (you could use a food processor or blender to go even smoother).
-    - Cut your sourdough bread in to 1 inch thick slices, drizzle with some olive oil and gently pan fry on medium-high heat.
-    - Spoon some feta whip on to your toast, top with a of your smashed avo. Add a sprinkle of your assorted seeds and a dash of Sriracha sauce.
+- Cut your avocados in half and take out the seed, scoop out the center in to a bowl and break down with a fork. Add a pinch of salt and freshly cracked pepper and mix.
+- In a separate bowl, mix together your cream cheese and feta cheese together until it forms a smooth paste (you could use a food processor or blender to go even smoother).
+- Cut your sourdough bread in to 1 inch thick slices, drizzle with some olive oil and gently pan fry (or grill) on medium-high heat.
+- Spoon some feta whip on to your toast, top with a of your smashed avo. Add a sprinkle of your assorted seeds and a dash of Sriracha sauce.
 ogp:
     og:
         description: 'The perfect way to trap a millennial.'

@@ -11,19 +11,26 @@ prep_time: Nothing
 time: 15 mins
 serves: 16 Balls
 ingredients:
-    Smooth Peanut Butter: 375g
-    Protein Powder: 3/4 Cup
-    Flax Seed Flour: 1/2 Cup 
-    Vanilla Extract: 2 Tsp
-    Dark Choc Chips: 200g
-    Malt Rice Extract: 2 Tbsp 
-    Dessicated Coconut: ''
+  - ingredient: Smooth Peanut Butter
+    quantity: 375g
+  - ingredient: Plain Protein Powder
+    quantity: 3/4 Cup
+  - ingredient: Flax Seed Flour
+    quantity: 1/2 Cup
+  - ingredient: Vanilla Extract
+    quantity:  2 Tsp
+  - ingredient: Dark Choc Chips
+    quantity: 200g
+  - ingredient: Malt Rice Extract
+    quantity: 2 Tbsp 
+  - ingredient: Dessicated Coconut
+    quantity: 
 steps:
-    - Combine all ingredients (except for coconut) in to a bowl and combine.
-    - Take some mixture and form in to a golf ball sized ball
-    - Roll in dessicated coconut on a plate
-    - Continue until all balls are made
-    - Put in your face and feel the energy 💪
+- Combine all ingredients (except for coconut) in to a bowl and combine.
+- Take some mixture and form in to a golf ball sized ball
+- Roll in dessicated coconut on a plate
+- Continue until all balls are made
+- Put in your face and feel the energy 💪
 ogp:
     og:
         description: "Perfect combo of protein, fats and carbs that gives you that hit of energy when you need it."
