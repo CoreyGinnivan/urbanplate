@@ -32,7 +32,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: Ingredients
         name: ingredients
         label_singular: "Ingredient"
-        widget: object
+        widget: list
         fields:
           - {label: "Quantity", name: "quantity", widget: "string"}
           - {label: "Ingredient", name: "ingredient", widget: "string"}
