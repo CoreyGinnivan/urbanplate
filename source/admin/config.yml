@@ -16,16 +16,15 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "recipe"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtext", name: "subtext", widget: "string"}
+      - {label: "Subtext", name: "subtext", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "hidden"}
       - {label: "Accent Colour", name: "accent", widget: "string"}
-      - {label: "Accent Alt Colour", name: "accent_alt", widget: "string"}
+      - {label: "Accent Alt Colour", name: "accent_alt", widget: "string", required: false}
       - {label: "Intro Copy", name: "intro", widget: "string"}
       - {label: "Prep Time", name: "prep_time", widget: "string"}
       - {label: "Serves", name: "serves", widget: "string"}
-      - name: steps
-          label: Steps
-          label_singular: "Step"
-          widget: list
-          fields:
-            - {label: "Steps", name: "steps", widget: "string"}
+      - label: Steps
+        label_singular: "Step"
+        widget: object
+        fields:
+          - {label: "Steps", name: "steps", widget: "string"}
