@@ -23,16 +23,16 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Copy", name: "intro", widget: "string"}
       - {label: "Prep Time", name: "prep_time", widget: "string"}
       - {label: "Serves", name: "serves", widget: "string"}
+      - label: Ingredients
+        name: ingredients
+        label_singular: "Ingredient"
+        widget: list
+        fields:
+          - {label: "Ingredient", name: "ingredient", widget: "string"}
+          - {label: "Quantity", name: "quantity", widget: "string"}
       - label: Steps
         name: steps
         label_singular: "Step"
         widget: list
         fields:
           - {label: "Step", name: "step", widget: "string"}
-      - label: Ingredients
-        name: ingredients
-        label_singular: "Ingredient"
-        widget: list
-        fields:
-          - {label: "Quantity", name: "quantity", widget: "string"}
-          - {label: "Ingredient", name: "ingredient", widget: "string"}
