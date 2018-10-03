@@ -29,3 +29,10 @@ collections: # A list of collections the CMS should be able to edit
         widget: list
         fields:
           - {label: "Step", name: "step", widget: "string"}
+      - label: Ingredients
+        name: ingredients
+        label_singular: "Ingredient"
+        widget: object
+        fields:
+          - {label: "Quantity", name: "quantity", widget: "string"}
+          - {label: "Ingredient", name: "ingredient", widget: "string"}
