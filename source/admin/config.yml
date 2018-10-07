@@ -22,6 +22,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Accent Alt Colour", name: "accent_alt", widget: "string", required: false}
       - {label: "Intro Copy", name: "intro", widget: "string"}
       - {label: "Prep Time", name: "prep_time", widget: "string"}
+      - {label: "Time", name: "time", widget: "string"}
       - {label: "Serves", name: "serves", widget: "string"}
       - label: Ingredients
         name: ingredients
