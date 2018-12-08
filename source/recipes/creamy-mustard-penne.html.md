@@ -23,7 +23,7 @@ ingredients:
   - ingredient: Penne Pasta
     quantity: 500g
   - ingredient: Wholegrain Seeded Mustard
-    quantity: 24 Tbsp
+    quantity: 2 Tbsp
   - ingredient: Sundried Tomatoes
     quantity: 4 Tbsp
   - ingredient: Freshly Grated Parmesan
@@ -49,9 +49,9 @@ ogp:
             height: 630
     twitter:
         label1: Total Time
-        data1: 30 mins
+        data1: 40 mins
         label2: Serves
-        data2: 5 ppl
+        data2: 4 ppl
         card: summary_large_image
         image:
             '': https://www.urbanplate.co/images/recipes/mustard-penne-share.jpg
