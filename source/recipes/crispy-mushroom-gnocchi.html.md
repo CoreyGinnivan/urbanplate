@@ -28,7 +28,7 @@ ingredients:
     quantity: 125g
   - ingredient: Fresh Thyme
     quantity: 10g
-  - ingredient: Fresh Romsemary Sprig
+  - ingredient: Fresh Rosemary Sprig
     quantity: 20cm
   - ingredient: Juice from 1/2 Lemon
     quantity: 
